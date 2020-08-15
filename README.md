@@ -10,23 +10,21 @@ If you are interested [here is my website](https://kieranwood.ca), and here are 
 
 ## Projects
 
+### Presentations
+[![static-site-hosting](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=static-site-hosting)](https://kieranwood.ca/static-site-hosting)
+[![basic-web-technologies](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=basic-web-technologies)](https://kieranwood.ca/basic-web-technologies)
+
 ### Scripts and CLI's
-
-
 [![SWS](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sws)](https://github.com/descent098/sws)
 [![Pystall](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=pystall)](https://github.com/descent098/pystall)
 [![AHD](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ahd)](https://github.com/descent098/ahd)
 [![OTP_emoji](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=otp_emoji)](https://github.com/descent098/otp_emoji)
 
-### Presentations
-
-[![static-site-hosting](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=static-site-hosting)](https://kieranwood.ca/static-site-hosting)
-[![basic-web-technologies](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=basic-web-technologies)](https://kieranwood.ca/basic-web-technologies)
-
 ### Web Development
-
 [![Schulich Ignite](https://github-readme-stats.vercel.app/api/pin/?username=Schulich-Ignite&repo=schulich-ignite.github.io)](https://github.com/Schulich-Ignite/schulich-ignite.github.io)
 [![ideas-plz](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ideas-plz)](https://github.com/descent098/ideas-plz)
+[![slack-connect-4-bot](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=slack-connect-4-bot)](https://github.com/descent098/slack-connect-4-bot)
+[![markdown-writer](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=markdown-writer)](https://github.com/descent098/markdown-writer)
 
 ### Education resources and templates
 [![simple-otp](https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=simple-otp)](https://github.com/descent098/simple-otp)
