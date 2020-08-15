@@ -4,9 +4,7 @@ I'm an undergraduate student in the computer science program at the university o
 
 For obvious reasons much of my work is not public, so the information included on this profile is all just my public work. Contact me if you have any questions about other work that I have done, or have a project you want me to join.
 
-## Stats
 [![Descent098's github stats](https://github-readme-stats.vercel.app/api?username=descent098&layout=compact&theme=dracula&show_icons=true&hide=stars&count_private=true&hide_title=true)](https://github.com/descent098)
-[![Descent098's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=descent098&layout=compact&theme=dracula&hide=html,css)](https://github.com/descent098)
 
 If you are interested [here is my website](https://kieranwood.ca), and here are a few of my projects down below.
 
