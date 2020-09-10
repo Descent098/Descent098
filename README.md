@@ -23,6 +23,11 @@ I'm an undergraduate student in the computer science program at the university o
 
 [![Descent098's github stats](https://github-readme-stats.vercel.app/api?username=descent098&layout=compact&show_icons=true&hide=stars&count_private=true&hide_title=true)](https://github.com/descent098)
 
+## Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!-- TODO: Add contact section here -->
 
 ## Higlighted Projects
