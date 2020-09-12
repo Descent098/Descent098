@@ -26,11 +26,11 @@ I'm an undergraduate student in the computer science program at the university o
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com//Descent098/pystall/issues/11) in [Descent098/pystall](https://github.com//Descent098/pystall)
-2. ❗️ Opened issue [#12](https://github.com//Descent098/pystall/issues/12) in [Descent098/pystall](https://github.com//Descent098/pystall)
-3. ❗️ Opened issue [#11](https://github.com//Descent098/pystall/issues/11) in [Descent098/pystall](https://github.com//Descent098/pystall)
-4. ❗️ Opened issue [#10](https://github.com//Descent098/pystall/issues/10) in [Descent098/pystall](https://github.com//Descent098/pystall)
-5. ❗️ Opened issue [#9](https://github.com//Descent098/pystall/issues/9) in [Descent098/pystall](https://github.com//Descent098/pystall)
+1. ❗️ Closed issue [#11](https://github.com//Descent098/pystall/issues/11) in [Descent098/pystall](https://github.com//Descent098/pystall)
+2. ❗️ Closed issue [#10](https://github.com//Descent098/pystall/issues/10) in [Descent098/pystall](https://github.com//Descent098/pystall)
+3. ❗️ Closed issue [#9](https://github.com//Descent098/pystall/issues/9) in [Descent098/pystall](https://github.com//Descent098/pystall)
+4. ❗️ Closed issue [#8](https://github.com//Descent098/pystall/issues/8) in [Descent098/pystall](https://github.com//Descent098/pystall)
+5. 🗣 Commented on [#8](https://github.com//Descent098/pystall/issues/8) in [Descent098/pystall](https://github.com//Descent098/pystall)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
