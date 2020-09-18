@@ -26,11 +26,11 @@ I'm an undergraduate student in the computer science program at the university o
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//Descent098/sdu/issues/2) in [Descent098/sdu](https://github.com//Descent098/sdu)
-2. 🎉 Merged PR [#13](https://github.com//Descent098/pystall/pull/13) in [Descent098/pystall](https://github.com//Descent098/pystall)
-3. 💪 Opened PR [#13](https://github.com//Descent098/pystall/pull/13) in [Descent098/pystall](https://github.com//Descent098/pystall)
-4. ❗️ Closed issue [#3](https://github.com//Descent098/pystall/issues/3) in [Descent098/pystall](https://github.com//Descent098/pystall)
-5. ❗️ Closed issue [#12](https://github.com//Descent098/pystall/issues/12) in [Descent098/pystall](https://github.com//Descent098/pystall)
+1. ❗️ Opened issue [#3](https://github.com//Descent098/sdu/issues/3) in [Descent098/sdu](https://github.com//Descent098/sdu)
+2. ❗️ Opened issue [#2](https://github.com//Descent098/sdu/issues/2) in [Descent098/sdu](https://github.com//Descent098/sdu)
+3. 🎉 Merged PR [#13](https://github.com//Descent098/pystall/pull/13) in [Descent098/pystall](https://github.com//Descent098/pystall)
+4. 💪 Opened PR [#13](https://github.com//Descent098/pystall/pull/13) in [Descent098/pystall](https://github.com//Descent098/pystall)
+5. ❗️ Closed issue [#3](https://github.com//Descent098/pystall/issues/3) in [Descent098/pystall](https://github.com//Descent098/pystall)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
