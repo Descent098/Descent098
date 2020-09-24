@@ -48,6 +48,16 @@ I'm an undergraduate student in the computer science program at the university o
 </details>
 
 <details>
+ <summary>:package: API's</summary>
+ <a href="https://kieranwood.ca/sdu">
+   <img alt-"sdu" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sdu">
+ </a>
+ <a href="https://kieranwood.ca/ezexcel">
+   <img alt-"ezexcel" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezexcel">
+ </a>
+</details>
+
+<details>
  <summary>:computer: Scripts and CLI's</summary>
  <a href="https://github.com/descent098/sws">
    <img alt-"sws" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sws">
