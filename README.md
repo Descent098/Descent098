@@ -1,6 +1,16 @@
-# Hi, I'm Kieran. 
+# Hi, I'm Kieran
+ 
+:globe_with_meridians: Currently located in Calgary, Canada
 
-I'm an undergraduate student in the computer science program at the university of Calgary, along with being a web services specialist there. I mostly focus on web development, system scripts, automation, and devops though I am familiar with a range of other fields. I have been developing for 3+ years, working on personal and client projects. For obvious reasons much of my work is not public, so the information included on this profile is all just my public work. Contact me if you have any questions about other work that I have done, or have a project you want me to join.
+:office: Working as a Web Services Specialist | University of Calgary
+
+:clock1: Developing for 3+ years, working on personal and client projects
+ 
+:school: Student at the Univerity of Calgary | Bsc. Computer Science w/minor in Philosophy
+
+[![Descent098's github stats](https://github-readme-stats.vercel.app/api?username=descent098&layout=compact&show_icons=true&hide=stars&count_private=true&hide_title=true)](https://github.com/descent098)
+
+For obvious reasons much of my work is not public, so the information included on this profile is all just my public work. Contact me if you have any questions about other work that I have done, or have a project you want me to join.
 
 ## Languages
 
@@ -11,15 +21,6 @@ I'm an undergraduate student in the computer science program at the university o
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="90px" height="90px" alt="rust"></a>
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=java" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="90px" height="90px" alt="java"></a>
-
-<br>
-</br>
-<br>
-</br>
-
-## Stats
-
-[![Descent098's github stats](https://github-readme-stats.vercel.app/api?username=descent098&layout=compact&show_icons=true&hide=stars&count_private=true&hide_title=true)](https://github.com/descent098)
 
 ## Recent activity
 
