@@ -10,8 +10,6 @@ I'm an undergraduate student in the computer science program at the university o
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="90px" height="90px" alt="rust"></a>
 
-<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=go" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" width="90px" height="90px" alt="go"></a>
-
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=java" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="90px" height="90px" alt="java"></a>
 
 <br>
