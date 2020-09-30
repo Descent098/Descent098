@@ -10,17 +10,15 @@
 
 [![Descent098's github stats](https://github-readme-stats.vercel.app/api?username=descent098&layout=compact&show_icons=true&hide=stars&count_private=true&hide_title=true)](https://github.com/descent098)
 
-For obvious reasons much of my work is not public, so the information included on this profile is all just my public work. Contact me if you have any questions about other work that I have done, or have a project you want me to join.
-
 ## Languages
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=python" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="90px" height="90px" alt="Python"></a>
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=javascript" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="90px" height="90px" alt="javascript"></a>
 
-<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" width="90px" height="90px" alt="rust"></a>
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://rustacean.net/assets/rustacean-flat-noshadow.svg" width="90px" height="90px" alt="rust"></a>
 
-<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=java" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="90px" height="90px" alt="java"></a>
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=java" ><img align="left" src="https://its.inside.tru.ca/files/2013/02/java.png" width="90px" height="90px" alt="java"></a>
 
 <br>
 </br>
@@ -116,3 +114,9 @@ For obvious reasons much of my work is not public, so the information included o
    <img alt-"posts" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=posts">
  </a>
 </details>
+
+## Contact
+
+For obvious reasons much of my work is not public, so the information included on this profile is all just my public work. You can contact me [here](https://kieranwood.ca#contact) if you have any questions about other work that I have done, or have a project you want me to join.
+
+
