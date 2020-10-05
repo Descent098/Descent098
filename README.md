@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/Descent098/sws/issues/5) in [Descent098/sws](https://github.com/Descent098/sws)
-2. 🗣 Commented on [#5](https://github.com/Schulich-Ignite/website/issues/5) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ❗️ Opened issue [#4](https://github.com/Descent098/sws/issues/4) in [Descent098/sws](https://github.com/Descent098/sws)
-4. ❗️ Opened issue [#3](https://github.com/Descent098/sws/issues/3) in [Descent098/sws](https://github.com/Descent098/sws)
-5. ❗️ Opened issue [#2](https://github.com/Descent098/sws/issues/2) in [Descent098/sws](https://github.com/Descent098/sws)
+1. ❗️ Opened issue [#550](https://github.com/rust-lang/rustlings/issues/550) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+2. ❗️ Opened issue [#5](https://github.com/Descent098/sws/issues/5) in [Descent098/sws](https://github.com/Descent098/sws)
+3. 🗣 Commented on [#5](https://github.com/Schulich-Ignite/website/issues/5) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❗️ Opened issue [#4](https://github.com/Descent098/sws/issues/4) in [Descent098/sws](https://github.com/Descent098/sws)
+5. ❗️ Opened issue [#3](https://github.com/Descent098/sws/issues/3) in [Descent098/sws](https://github.com/Descent098/sws)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
