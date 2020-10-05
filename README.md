@@ -78,8 +78,8 @@
 <details>
  <summary>:globe_with_meridians: Web Development</summary>
 
- <a href="https://github.com/Schulich-Ignite/schulich-ignite.github.io">
-   <img alt-"Schulich Ignite" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-Ignite&repo=schulich-ignite.github.io">
+ <a href="https://github.com/Descent098/schulich-ignite.github.io">
+   <img alt-"Schulich Ignite" src="https://github-readme-stats.vercel.app/api/pin/?username=Descent098&repo=schulich-ignite.github.io">
  </a>
  <a href="https://github.com/descent098/ideas-plz">
    <img alt-"ideas-plz" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ideas-plz">
