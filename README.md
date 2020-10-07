@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#550](https://github.com/rust-lang/rustlings/issues/550) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-2. ❗️ Opened issue [#550](https://github.com/rust-lang/rustlings/issues/550) in [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-3. ❗️ Opened issue [#5](https://github.com/Descent098/sws/issues/5) in [Descent098/sws](https://github.com/Descent098/sws)
-4. 🗣 Commented on [#5](https://github.com/Schulich-Ignite/website/issues/5) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ❗️ Opened issue [#4](https://github.com/Descent098/sws/issues/4) in [Descent098/sws](https://github.com/Descent098/sws)
+1. ❗️ Opened issue [#30](https://github.com/TeamTigers/minisauras/issues/30) in [TeamTigers/minisauras](https://github.com/TeamTigers/minisauras)
+2. ❌ Closed PR [#51](https://github.com/Schulich-Ignite/website/pull/51) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ❌ Closed PR [#50](https://github.com/Schulich-Ignite/website/pull/50) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. 🎉 Merged PR [#49](https://github.com/Schulich-Ignite/website/pull/49) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ❌ Closed PR [#48](https://github.com/Schulich-Ignite/website/pull/48) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
