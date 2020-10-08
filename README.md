@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/TeamTigers/minisauras/issues/30) in [TeamTigers/minisauras](https://github.com/TeamTigers/minisauras)
-2. ❌ Closed PR [#51](https://github.com/Schulich-Ignite/website/pull/51) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ❌ Closed PR [#50](https://github.com/Schulich-Ignite/website/pull/50) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. 🎉 Merged PR [#49](https://github.com/Schulich-Ignite/website/pull/49) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ❌ Closed PR [#48](https://github.com/Schulich-Ignite/website/pull/48) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ❗️ Closed issue [#2](https://github.com/canadian-coding/python-package-template/issues/2) in [canadian-coding/python-package-template](https://github.com/canadian-coding/python-package-template)
+2. ❗️ Opened issue [#30](https://github.com/TeamTigers/minisauras/issues/30) in [TeamTigers/minisauras](https://github.com/TeamTigers/minisauras)
+3. ❌ Closed PR [#51](https://github.com/Schulich-Ignite/website/pull/51) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#50](https://github.com/Schulich-Ignite/website/pull/50) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. 🎉 Merged PR [#49](https://github.com/Schulich-Ignite/website/pull/49) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
