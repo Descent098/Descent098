@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Descent098/30-seconds-of-python/pull/1) in [Descent098/30-seconds-of-python](https://github.com/Descent098/30-seconds-of-python)
-2. 💪 Opened PR [#1](https://github.com/Descent098/30-seconds-of-python/pull/1) in [Descent098/30-seconds-of-python](https://github.com/Descent098/30-seconds-of-python)
-3. 💪 Opened PR [#313](https://github.com/30-seconds/30-seconds-of-python/pull/313) in [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)
-4. 💪 Opened PR [#312](https://github.com/30-seconds/30-seconds-of-python/pull/312) in [30-seconds/30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)
-5. ❗️ Closed issue [#36](https://github.com/jamesgeorge007/github-activity-readme/issues/36) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❌ Closed PR [#60](https://github.com/Schulich-Ignite/website/pull/60) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ❌ Closed PR [#59](https://github.com/Schulich-Ignite/website/pull/59) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ❌ Closed PR [#58](https://github.com/Schulich-Ignite/website/pull/58) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#57](https://github.com/Schulich-Ignite/website/pull/57) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ❌ Closed PR [#56](https://github.com/Schulich-Ignite/website/pull/56) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
