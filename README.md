@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Descent098/sws/issues/6) in [Descent098/sws](https://github.com/Descent098/sws)
-2. ❗️ Opened issue [#7](https://github.com/Descent098/sdu/issues/7) in [Descent098/sdu](https://github.com/Descent098/sdu)
-3. ❌ Closed PR [#60](https://github.com/Schulich-Ignite/website/pull/60) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ❌ Closed PR [#59](https://github.com/Schulich-Ignite/website/pull/59) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ❌ Closed PR [#58](https://github.com/Schulich-Ignite/website/pull/58) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ❗️ Closed issue [#1](https://github.com/Descent098/sws/issues/1) in [Descent098/sws](https://github.com/Descent098/sws)
+2. 🗣 Commented on [#1](https://github.com/Descent098/sws/issues/1) in [Descent098/sws](https://github.com/Descent098/sws)
+3. ❗️ Opened issue [#7](https://github.com/Descent098/sws/issues/7) in [Descent098/sws](https://github.com/Descent098/sws)
+4. ❗️ Opened issue [#6](https://github.com/Descent098/sws/issues/6) in [Descent098/sws](https://github.com/Descent098/sws)
+5. ❗️ Opened issue [#7](https://github.com/Descent098/sdu/issues/7) in [Descent098/sdu](https://github.com/Descent098/sdu)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
