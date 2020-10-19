@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Schulich-Ignite/installation-script/issues/2) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
-2. 🎉 Merged PR [#1](https://github.com/Schulich-Ignite/installation-script/pull/1) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
-3. 💪 Opened PR [#1](https://github.com/Schulich-Ignite/installation-script/pull/1) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
-4. ❗️ Closed issue [#1](https://github.com/Descent098/sws/issues/1) in [Descent098/sws](https://github.com/Descent098/sws)
-5. 🗣 Commented on [#1](https://github.com/Descent098/sws/issues/1) in [Descent098/sws](https://github.com/Descent098/sws)
+1. 🗣 Commented on [#2](https://github.com/Schulich-Ignite/installation-script/issues/2) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
+2. ❗️ Closed issue [#2](https://github.com/Schulich-Ignite/installation-script/issues/2) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
+3. 🎉 Merged PR [#3](https://github.com/Schulich-Ignite/installation-script/pull/3) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
+4. 💪 Opened PR [#3](https://github.com/Schulich-Ignite/installation-script/pull/3) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
+5. ❗️ Opened issue [#32](https://github.com/m-rtijn/mpu6050/issues/32) in [m-rtijn/mpu6050](https://github.com/m-rtijn/mpu6050)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
