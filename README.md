@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Descent098/ezshortcut/issues/1) in [Descent098/ezshortcut](https://github.com/Descent098/ezshortcut)
-2. 🗣 Commented on [#2](https://github.com/Schulich-Ignite/installation-script/issues/2) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
-3. ❗️ Closed issue [#2](https://github.com/Schulich-Ignite/installation-script/issues/2) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
-4. 🎉 Merged PR [#3](https://github.com/Schulich-Ignite/installation-script/pull/3) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
-5. 💪 Opened PR [#3](https://github.com/Schulich-Ignite/installation-script/pull/3) in [Schulich-Ignite/installation-script](https://github.com/Schulich-Ignite/installation-script)
+1. 🗣 Commented on [#37](https://github.com/Schulich-Ignite/spark/issues/37) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+2. 💪 Opened PR [#37](https://github.com/Schulich-Ignite/spark/pull/37) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+3. 🗣 Commented on [#35](https://github.com/Schulich-Ignite/spark/issues/35) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+4. 💪 Opened PR [#35](https://github.com/Schulich-Ignite/spark/pull/35) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+5. ❗️ Closed issue [#1](https://github.com/Descent098/ezshortcut/issues/1) in [Descent098/ezshortcut](https://github.com/Descent098/ezshortcut)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
