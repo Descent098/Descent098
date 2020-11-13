@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#55](https://github.com/Schulich-Ignite/spark/issues/55) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
-2. ❗️ Closed issue [#56](https://github.com/Schulich-Ignite/spark/issues/56) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
-3. ❌ Closed PR [#42](https://github.com/Schulich-Ignite/website/pull/42) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ❗️ Closed issue [#43](https://github.com/Schulich-Ignite/website/issues/43) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. 🗣 Commented on [#44](https://github.com/Schulich-Ignite/website/issues/44) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ❗️ Opened issue [#78](https://github.com/Schulich-Ignite/website/issues/78) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. 🗣 Commented on [#75](https://github.com/Schulich-Ignite/spark/issues/75) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+3. 💪 Opened PR [#75](https://github.com/Schulich-Ignite/spark/pull/75) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+4. ❗️ Closed issue [#55](https://github.com/Schulich-Ignite/spark/issues/55) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+5. ❗️ Closed issue [#56](https://github.com/Schulich-Ignite/spark/issues/56) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
