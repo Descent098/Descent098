@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/Schulich-Ignite/spark/issues/83) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
-2. 💪 Opened PR [#83](https://github.com/Schulich-Ignite/spark/pull/83) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
-3. ❗️ Opened issue [#5](https://github.com/Descent098/ezexcel/issues/5) in [Descent098/ezexcel](https://github.com/Descent098/ezexcel)
-4. ❗️ Closed issue [#4](https://github.com/Descent098/ezexcel/issues/4) in [Descent098/ezexcel](https://github.com/Descent098/ezexcel)
-5. ❗️ Opened issue [#4](https://github.com/Descent098/ezexcel/issues/4) in [Descent098/ezexcel](https://github.com/Descent098/ezexcel)
+1. ❗️ Closed issue [#2](https://github.com/Descent098/ezexcel/issues/2) in [Descent098/ezexcel](https://github.com/Descent098/ezexcel)
+2. ❗️ Closed issue [#5](https://github.com/Descent098/ezexcel/issues/5) in [Descent098/ezexcel](https://github.com/Descent098/ezexcel)
+3. ❗️ Closed issue [#3](https://github.com/Descent098/ezexcel/issues/3) in [Descent098/ezexcel](https://github.com/Descent098/ezexcel)
+4. 🗣 Commented on [#83](https://github.com/Schulich-Ignite/spark/issues/83) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+5. 💪 Opened PR [#83](https://github.com/Schulich-Ignite/spark/pull/83) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
