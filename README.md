@@ -54,8 +54,8 @@
  <a href="https://kieranwood.ca/sdu">
    <img alt-"sdu" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sdu">
  </a>
- <a href="https://kieranwood.ca/ezexcel">
-   <img alt-"ezexcel" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezexcel">
+ <a href="https://kieranwood.ca/ezspreadsheet">
+   <img alt-"ezexcel" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezspreadsheet">
  </a>
  <a href="https://github.com/Schulich-ignite/spark">
    <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=spark">
