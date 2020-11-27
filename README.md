@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/Schulich-Ignite/spark/pull/83) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
-2. ❗️ Closed issue [#82](https://github.com/Schulich-Ignite/spark/issues/82) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
-3. 🎉 Merged PR [#7](https://github.com/Descent098/ezspreadsheet/pull/7) in [Descent098/ezspreadsheet](https://github.com/Descent098/ezspreadsheet)
-4. 💪 Opened PR [#7](https://github.com/Descent098/ezspreadsheet/pull/7) in [Descent098/ezspreadsheet](https://github.com/Descent098/ezspreadsheet)
-5. 🎉 Merged PR [#6](https://github.com/Descent098/ezexcel/pull/6) in [Descent098/ezexcel](https://github.com/Descent098/ezexcel)
+1. ❗️ Opened issue [#8](https://github.com/Descent098/ezspreadsheet/issues/8) in [Descent098/ezspreadsheet](https://github.com/Descent098/ezspreadsheet)
+2. 🎉 Merged PR [#83](https://github.com/Schulich-Ignite/spark/pull/83) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+3. ❗️ Closed issue [#82](https://github.com/Schulich-Ignite/spark/issues/82) in [Schulich-Ignite/spark](https://github.com/Schulich-Ignite/spark)
+4. 🎉 Merged PR [#7](https://github.com/Descent098/ezspreadsheet/pull/7) in [Descent098/ezspreadsheet](https://github.com/Descent098/ezspreadsheet)
+5. 💪 Opened PR [#7](https://github.com/Descent098/ezspreadsheet/pull/7) in [Descent098/ezspreadsheet](https://github.com/Descent098/ezspreadsheet)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
