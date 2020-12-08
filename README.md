@@ -66,6 +66,12 @@
  <a href="https://kieranwood.ca/ezshortcut">
    <img alt-"ezshortcut" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezshortcut">
  </a>
+  <a href="https://github.com/descent098/pystall">
+   <img alt-"pystall" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=pystall">
+ </a>
+ <a href="https://github.com/descent098/sws">
+   <img alt-"sws" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sws">
+ </a>
 </details>
 
 <details>
