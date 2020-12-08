@@ -47,6 +47,9 @@
  <a href="https://kieranwood.ca/basic-web-technologies">
    <img alt-"basic-web-technologies" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=basic-web-technologies">
  </a>
+  <a href="https://kieranwood.ca/ezprez-example">
+   <img alt-"ezprez-example" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez-example">
+ </a>
 </details>
 
 <details>
@@ -88,6 +91,9 @@
  <a href="https://github.com/descent098/otp_emoji">
    <img alt-"otp_emoji" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=otp_emoji">
  </a>
+  <a href="https://github.com/descent098/installation-script">
+   <img alt-"installation-script" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=installation-script">
+ </a>
 </details>
 
 <details>
@@ -106,7 +112,10 @@
    <img alt-"markdown-writer" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=markdown-writer">
  </a>
   <a href="https://github.com/Schulich-ignite/website">
-   <img alt-"markdown-writer" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=website">
+   <img alt-"Schulich ignite site" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=website">
+ </a>
+  <a href="https://github.com/canadian-coding/website">
+   <img alt-"Canadian Coding Site" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=website">
  </a>
 </details>
 
