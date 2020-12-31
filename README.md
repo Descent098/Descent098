@@ -57,8 +57,8 @@
  <a href="https://kieranwood.ca/sdu">
    <img alt-"sdu" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sdu">
  </a>
- <a href="https://github.com/Schulich-ignite/spark">
-   <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=spark">
+ <a href="https://github.com/Descent098/spark">
+   <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spark">
  </a>
  <a href="https://kieranwood.ca/ezspreadsheet">
    <img alt-"ezexcel" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezspreadsheet">
@@ -140,8 +140,8 @@
  <a href="https://github.com/canadian-coding/posts">
    <img alt-"posts" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=posts">
  </a>
-  <a href="https://github.com/Schulich-ignite/spark">
-   <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=spark">
+  <a href="https://github.com/Descent098/spark">
+   <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spark">
  </a>
 </details>
 
