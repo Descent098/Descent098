@@ -121,7 +121,7 @@
    <img alt-"Canadian Coding Site" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=website">
  </a>
    <a href="https://kieranwood.ca/ezprez">
-   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
+   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez">
  </a>
   <a href="https://kieranwood.ca/ezcv">
    <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
