@@ -75,6 +75,9 @@
  <a href="https://github.com/descent098/sws">
    <img alt-"sws" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sws">
  </a>
+  <a href="https://kieranwood.ca/ezcv">
+   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
+ </a>
 </details>
 
 <details>
@@ -116,6 +119,12 @@
  </a>
   <a href="https://github.com/canadian-coding/website">
    <img alt-"Canadian Coding Site" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=website">
+ </a>
+   <a href="https://kieranwood.ca/ezprez">
+   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
+ </a>
+  <a href="https://kieranwood.ca/ezcv">
+   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
  </a>
 </details>
 
