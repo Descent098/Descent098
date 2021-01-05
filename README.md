@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#71](https://github.com/richardpenman/whois/pull/71) in [richardpenman/whois](https://github.com/richardpenman/whois)
-2. ❗️ Opened issue [#70](https://github.com/richardpenman/whois/issues/70) in [richardpenman/whois](https://github.com/richardpenman/whois)
-3. ❗️ Closed issue [#4](https://github.com/Descent098/ezprez/issues/4) in [Descent098/ezprez](https://github.com/Descent098/ezprez)
-4. ❗️ Closed issue [#1](https://github.com/Descent098/ezprez/issues/1) in [Descent098/ezprez](https://github.com/Descent098/ezprez)
-5. ❗️ Closed issue [#2](https://github.com/Descent098/ezprez/issues/2) in [Descent098/ezprez](https://github.com/Descent098/ezprez)
+1. ❗️ Closed issue [#7](https://github.com/Descent098/ezcv/issues/7) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+2. ❗️ Closed issue [#6](https://github.com/Descent098/ezcv/issues/6) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+3. ❗️ Closed issue [#2](https://github.com/Descent098/ezcv/issues/2) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+4. ❗️ Closed issue [#5](https://github.com/Descent098/ezcv/issues/5) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+5. ❗️ Closed issue [#10](https://github.com/Descent098/ezcv/issues/10) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
