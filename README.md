@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Descent098/ezprez/issues/6) in [Descent098/ezprez](https://github.com/Descent098/ezprez)
-2. ❗️ Opened issue [#19](https://github.com/Descent098/ezcv/issues/19) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-3. ❗️ Opened issue [#1](https://github.com/aime-risson/pyFileManager/issues/1) in [aime-risson/pyFileManager](https://github.com/aime-risson/pyFileManager)
-4. ❗️ Opened issue [#18](https://github.com/Descent098/ezcv/issues/18) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-5. ❗️ Opened issue [#17](https://github.com/Descent098/ezcv/issues/17) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+1. ❗️ Opened issue [#5](https://github.com/glassthunder/TECHSTART/issues/5) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+2. ❗️ Opened issue [#4](https://github.com/glassthunder/TECHSTART/issues/4) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+3. ❗️ Opened issue [#3](https://github.com/glassthunder/TECHSTART/issues/3) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+4. ❗️ Opened issue [#2](https://github.com/glassthunder/TECHSTART/issues/2) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+5. ❗️ Opened issue [#1](https://github.com/glassthunder/TECHSTART/issues/1) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
