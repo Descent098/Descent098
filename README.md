@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/glassthunder/TECHSTART/issues/5) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
-2. ❗️ Opened issue [#4](https://github.com/glassthunder/TECHSTART/issues/4) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
-3. ❗️ Opened issue [#3](https://github.com/glassthunder/TECHSTART/issues/3) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
-4. ❗️ Opened issue [#2](https://github.com/glassthunder/TECHSTART/issues/2) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
-5. ❗️ Opened issue [#1](https://github.com/glassthunder/TECHSTART/issues/1) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+1. 🗣 Commented on [#7](https://github.com/glassthunder/TECHSTART/issues/7) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+2. ❗️ Opened issue [#5](https://github.com/glassthunder/TECHSTART/issues/5) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+3. ❗️ Opened issue [#4](https://github.com/glassthunder/TECHSTART/issues/4) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+4. ❗️ Opened issue [#3](https://github.com/glassthunder/TECHSTART/issues/3) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+5. ❗️ Opened issue [#2](https://github.com/glassthunder/TECHSTART/issues/2) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
