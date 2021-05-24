@@ -28,10 +28,10 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/glassthunder/TECHSTART/pull/10) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
-2. ❗️ Opened issue [#20](https://github.com/Descent098/ezcv/issues/20) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-3. 🗣 Commented on [#7](https://github.com/glassthunder/TECHSTART/issues/7) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
-4. ❗️ Opened issue [#5](https://github.com/glassthunder/TECHSTART/issues/5) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+1. 🎉 Merged PR [#110](https://github.com/Schulich-Ignite/website/pull/110) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. 💪 Opened PR [#10](https://github.com/glassthunder/TECHSTART/pull/10) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+3. ❗️ Opened issue [#20](https://github.com/Descent098/ezcv/issues/20) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+4. 🗣 Commented on [#7](https://github.com/glassthunder/TECHSTART/issues/7) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
 5. ❗️ Opened issue [#4](https://github.com/glassthunder/TECHSTART/issues/4) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
 <!--END_SECTION:activity-->
 
