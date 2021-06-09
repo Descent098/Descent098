@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/Descent098/ezcv/issues/22) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-2. ❗️ Opened issue [#21](https://github.com/Descent098/ezcv/issues/21) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-3. ❗️ Closed issue [#18](https://github.com/Descent098/ezcv/issues/18) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-4. 🎉 Merged PR [#110](https://github.com/Schulich-Ignite/website/pull/110) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. 💪 Opened PR [#10](https://github.com/glassthunder/TECHSTART/pull/10) in [glassthunder/TECHSTART](https://github.com/glassthunder/TECHSTART)
+1. ❗️ Opened issue [#23](https://github.com/Descent098/ezcv/issues/23) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+2. ❗️ Opened issue [#22](https://github.com/Descent098/ezcv/issues/22) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+3. ❗️ Opened issue [#21](https://github.com/Descent098/ezcv/issues/21) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+4. ❗️ Closed issue [#18](https://github.com/Descent098/ezcv/issues/18) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+5. 🎉 Merged PR [#110](https://github.com/Schulich-Ignite/website/pull/110) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
