@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/PrincessAkira/road-to-yuzu-without-switch/pull/18) in [PrincessAkira/road-to-yuzu-without-switch](https://github.com/PrincessAkira/road-to-yuzu-without-switch)
-2. ❗️ Closed issue [#13](https://github.com/Descent098/ezcv/issues/13) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-3. ❗️ Opened issue [#24](https://github.com/Descent098/ezcv/issues/24) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-4. ❗️ Closed issue [#23](https://github.com/Descent098/ezcv/issues/23) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-5. ❗️ Closed issue [#22](https://github.com/Descent098/ezcv/issues/22) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+1. ❗️ Closed issue [#5](https://github.com/Schulich-Ignite/website/issues/5) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ❗️ Closed issue [#78](https://github.com/Schulich-Ignite/website/issues/78) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. 💪 Opened PR [#18](https://github.com/PrincessAkira/road-to-yuzu-without-switch/pull/18) in [PrincessAkira/road-to-yuzu-without-switch](https://github.com/PrincessAkira/road-to-yuzu-without-switch)
+4. ❗️ Closed issue [#13](https://github.com/Descent098/ezcv/issues/13) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+5. ❗️ Opened issue [#24](https://github.com/Descent098/ezcv/issues/24) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
