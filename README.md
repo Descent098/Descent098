@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/QU-UP/ezcv-themes/issues/3) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
-2. ❗️ Opened issue [#2](https://github.com/QU-UP/ezcv-themes/issues/2) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
-3. ❗️ Closed issue [#5](https://github.com/Schulich-Ignite/website/issues/5) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ❗️ Closed issue [#78](https://github.com/Schulich-Ignite/website/issues/78) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. 💪 Opened PR [#18](https://github.com/PrincessAkira/road-to-yuzu-without-switch/pull/18) in [PrincessAkira/road-to-yuzu-without-switch](https://github.com/PrincessAkira/road-to-yuzu-without-switch)
+1. ❗️ Closed issue [#1](https://github.com/QU-UP/ezcv-themes/issues/1) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
+2. ❗️ Closed issue [#11](https://github.com/Descent098/ezcv/issues/11) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+3. ❗️ Opened issue [#3](https://github.com/QU-UP/ezcv-themes/issues/3) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
+4. ❗️ Opened issue [#2](https://github.com/QU-UP/ezcv-themes/issues/2) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
+5. ❗️ Closed issue [#5](https://github.com/Schulich-Ignite/website/issues/5) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
