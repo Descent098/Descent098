@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/QU-UP/ezcv-themes/issues/3) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
-2. ❗️ Closed issue [#17](https://github.com/Descent098/ezcv/issues/17) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-3. ❗️ Closed issue [#1](https://github.com/QU-UP/ezcv-themes/issues/1) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
-4. ❗️ Closed issue [#11](https://github.com/Descent098/ezcv/issues/11) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-5. ❗️ Opened issue [#3](https://github.com/QU-UP/ezcv-themes/issues/3) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
+1. 💪 Opened PR [#1](https://github.com/QU-UP/ezcv/pull/1) in [QU-UP/ezcv](https://github.com/QU-UP/ezcv)
+2. 🎉 Merged PR [#4](https://github.com/QU-UP/ezcv-themes/pull/4) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
+3. 💪 Opened PR [#4](https://github.com/QU-UP/ezcv-themes/pull/4) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
+4. ❗️ Opened issue [#28](https://github.com/Descent098/ezcv/issues/28) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+5. ❗️ Opened issue [#27](https://github.com/Descent098/ezcv/issues/27) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
