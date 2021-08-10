@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#88](https://github.com/phoboslab/Impact/issues/88) in [phoboslab/Impact](https://github.com/phoboslab/Impact)
-2. 🗣 Commented on [#3](https://github.com/Descent098/ahd/issues/3) in [Descent098/ahd](https://github.com/Descent098/ahd)
-3. ❗️ Opened issue [#30](https://github.com/Descent098/ezcv/issues/30) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-4. 🎉 Merged PR [#1](https://github.com/QU-UP/ezcv/pull/1) in [QU-UP/ezcv](https://github.com/QU-UP/ezcv)
-5. 🎉 Merged PR [#29](https://github.com/Descent098/ezcv/pull/29) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+1. ❗️ Closed issue [#28](https://github.com/Descent098/ezcv/issues/28) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+2. ❗️ Opened issue [#88](https://github.com/phoboslab/Impact/issues/88) in [phoboslab/Impact](https://github.com/phoboslab/Impact)
+3. 🗣 Commented on [#3](https://github.com/Descent098/ahd/issues/3) in [Descent098/ahd](https://github.com/Descent098/ahd)
+4. ❗️ Opened issue [#30](https://github.com/Descent098/ezcv/issues/30) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+5. 🎉 Merged PR [#1](https://github.com/QU-UP/ezcv/pull/1) in [QU-UP/ezcv](https://github.com/QU-UP/ezcv)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
