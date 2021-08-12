@@ -16,7 +16,7 @@
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=javascript" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="90px" height="90px" alt="javascript"></a>
 
-<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://rustacean.net/assets/rustacean-flat-noshadow.svg" width="90px" height="90px" alt="rust"></a>
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="90px" height="90px" alt="rust"></a>
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=java" ><img align="left" src="https://its.inside.tru.ca/files/2013/02/java.png" width="90px" height="90px" alt="java"></a>
 
