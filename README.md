@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/webslides/WebSlides/issues/181) in [webslides/WebSlides](https://github.com/webslides/WebSlides)
-2. 🗣 Commented on [#88](https://github.com/phoboslab/Impact/issues/88) in [phoboslab/Impact](https://github.com/phoboslab/Impact)
-3. ❗️ Closed issue [#28](https://github.com/Descent098/ezcv/issues/28) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-4. ❗️ Opened issue [#88](https://github.com/phoboslab/Impact/issues/88) in [phoboslab/Impact](https://github.com/phoboslab/Impact)
-5. 🗣 Commented on [#3](https://github.com/Descent098/ahd/issues/3) in [Descent098/ahd](https://github.com/Descent098/ahd)
+1. 🗣 Commented on [#30](https://github.com/TeamTigers/minisauras/issues/30) in [TeamTigers/minisauras](https://github.com/TeamTigers/minisauras)
+2. 🗣 Commented on [#181](https://github.com/webslides/WebSlides/issues/181) in [webslides/WebSlides](https://github.com/webslides/WebSlides)
+3. 🗣 Commented on [#88](https://github.com/phoboslab/Impact/issues/88) in [phoboslab/Impact](https://github.com/phoboslab/Impact)
+4. ❗️ Closed issue [#28](https://github.com/Descent098/ezcv/issues/28) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+5. ❗️ Opened issue [#88](https://github.com/phoboslab/Impact/issues/88) in [phoboslab/Impact](https://github.com/phoboslab/Impact)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
