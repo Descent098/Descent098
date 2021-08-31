@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/gen1us2k/python-whois/pull/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
-2. ❗️ Closed issue [#9](https://github.com/Descent098/sws/issues/9) in [Descent098/sws](https://github.com/Descent098/sws)
-3. ❗️ Closed issue [#8](https://github.com/Descent098/sws/issues/8) in [Descent098/sws](https://github.com/Descent098/sws)
-4. ❗️ Closed issue [#4](https://github.com/Descent098/sws/issues/4) in [Descent098/sws](https://github.com/Descent098/sws)
-5. 🗣 Commented on [#30](https://github.com/TeamTigers/minisauras/issues/30) in [TeamTigers/minisauras](https://github.com/TeamTigers/minisauras)
+1. ❗️ Closed issue [#6](https://github.com/Descent098/sws/issues/6) in [Descent098/sws](https://github.com/Descent098/sws)
+2. ❗️ Closed issue [#5](https://github.com/Descent098/sws/issues/5) in [Descent098/sws](https://github.com/Descent098/sws)
+3. 💪 Opened PR [#48](https://github.com/gen1us2k/python-whois/pull/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
+4. ❗️ Closed issue [#9](https://github.com/Descent098/sws/issues/9) in [Descent098/sws](https://github.com/Descent098/sws)
+5. ❗️ Closed issue [#8](https://github.com/Descent098/sws/issues/8) in [Descent098/sws](https://github.com/Descent098/sws)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
