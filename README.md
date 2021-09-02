@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Descent098/sws/pull/10) in [Descent098/sws](https://github.com/Descent098/sws)
-2. 💪 Opened PR [#10](https://github.com/Descent098/sws/pull/10) in [Descent098/sws](https://github.com/Descent098/sws)
-3. ❗️ Closed issue [#7](https://github.com/Descent098/sws/issues/7) in [Descent098/sws](https://github.com/Descent098/sws)
-4. ❗️ Closed issue [#6](https://github.com/Descent098/sws/issues/6) in [Descent098/sws](https://github.com/Descent098/sws)
-5. ❗️ Closed issue [#5](https://github.com/Descent098/sws/issues/5) in [Descent098/sws](https://github.com/Descent098/sws)
+1. ❗️ Opened issue [#13](https://github.com/Descent098/sws/issues/13) in [Descent098/sws](https://github.com/Descent098/sws)
+2. ❗️ Opened issue [#12](https://github.com/Descent098/sws/issues/12) in [Descent098/sws](https://github.com/Descent098/sws)
+3. ❗️ Opened issue [#11](https://github.com/Descent098/sws/issues/11) in [Descent098/sws](https://github.com/Descent098/sws)
+4. 🎉 Merged PR [#10](https://github.com/Descent098/sws/pull/10) in [Descent098/sws](https://github.com/Descent098/sws)
+5. 💪 Opened PR [#10](https://github.com/Descent098/sws/pull/10) in [Descent098/sws](https://github.com/Descent098/sws)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
