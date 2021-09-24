@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/Descent098/sws/issues/14) in [Descent098/sws](https://github.com/Descent098/sws)
-2. ❗️ Opened issue [#13](https://github.com/Descent098/sws/issues/13) in [Descent098/sws](https://github.com/Descent098/sws)
-3. ❗️ Opened issue [#12](https://github.com/Descent098/sws/issues/12) in [Descent098/sws](https://github.com/Descent098/sws)
-4. ❗️ Opened issue [#11](https://github.com/Descent098/sws/issues/11) in [Descent098/sws](https://github.com/Descent098/sws)
-5. 🎉 Merged PR [#10](https://github.com/Descent098/sws/pull/10) in [Descent098/sws](https://github.com/Descent098/sws)
+1. 💪 Opened PR [#13](https://github.com/clear-code-projects/Minecraft-in-Python/pull/13) in [clear-code-projects/Minecraft-in-Python](https://github.com/clear-code-projects/Minecraft-in-Python)
+2. ❗️ Opened issue [#14](https://github.com/Descent098/sws/issues/14) in [Descent098/sws](https://github.com/Descent098/sws)
+3. ❗️ Opened issue [#13](https://github.com/Descent098/sws/issues/13) in [Descent098/sws](https://github.com/Descent098/sws)
+4. ❗️ Opened issue [#12](https://github.com/Descent098/sws/issues/12) in [Descent098/sws](https://github.com/Descent098/sws)
+5. ❗️ Opened issue [#11](https://github.com/Descent098/sws/issues/11) in [Descent098/sws](https://github.com/Descent098/sws)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
