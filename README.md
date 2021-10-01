@@ -4,7 +4,7 @@
 
 :office: Working as a Web Services Specialist | University of Calgary
 
-:clock1: Developing for 3+ years, working on personal and client projects
+:clock1: Developing for 4+ years, working on personal and client projects
  
 :school: Student at the Univerity of Calgary | Bsc. Computer Science w/minor in Philosophy
 
