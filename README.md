@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Descent098/jubilant-octo-lamp/pull/2) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
-2. 💪 Opened PR [#2](https://github.com/Descent098/jubilant-octo-lamp/pull/2) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
-3. 🎉 Merged PR [#1](https://github.com/Descent098/jubilant-octo-lamp/pull/1) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
-4. 💪 Opened PR [#1](https://github.com/Descent098/jubilant-octo-lamp/pull/1) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
-5. 💪 Opened PR [#13](https://github.com/clear-code-projects/Minecraft-in-Python/pull/13) in [clear-code-projects/Minecraft-in-Python](https://github.com/clear-code-projects/Minecraft-in-Python)
+1. 🎉 Merged PR [#1](https://github.com/Descent098/ideal-computing-machine/pull/1) in [Descent098/ideal-computing-machine](https://github.com/Descent098/ideal-computing-machine)
+2. 💪 Opened PR [#1](https://github.com/Descent098/ideal-computing-machine/pull/1) in [Descent098/ideal-computing-machine](https://github.com/Descent098/ideal-computing-machine)
+3. 🎉 Merged PR [#2](https://github.com/Descent098/jubilant-octo-lamp/pull/2) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
+4. 💪 Opened PR [#2](https://github.com/Descent098/jubilant-octo-lamp/pull/2) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
+5. 🎉 Merged PR [#1](https://github.com/Descent098/jubilant-octo-lamp/pull/1) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
