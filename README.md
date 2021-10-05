@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Descent098/ideal-computing-machine/pull/1) in [Descent098/ideal-computing-machine](https://github.com/Descent098/ideal-computing-machine)
-2. 💪 Opened PR [#1](https://github.com/Descent098/ideal-computing-machine/pull/1) in [Descent098/ideal-computing-machine](https://github.com/Descent098/ideal-computing-machine)
-3. 🎉 Merged PR [#2](https://github.com/Descent098/jubilant-octo-lamp/pull/2) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
-4. 💪 Opened PR [#2](https://github.com/Descent098/jubilant-octo-lamp/pull/2) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
-5. 🎉 Merged PR [#1](https://github.com/Descent098/jubilant-octo-lamp/pull/1) in [Descent098/jubilant-octo-lamp](https://github.com/Descent098/jubilant-octo-lamp)
+1. ❌ Closed PR [#125](https://github.com/Schulich-Ignite/website/pull/125) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ❌ Closed PR [#127](https://github.com/Schulich-Ignite/website/pull/127) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ❌ Closed PR [#126](https://github.com/Schulich-Ignite/website/pull/126) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#124](https://github.com/Schulich-Ignite/website/pull/124) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ❌ Closed PR [#123](https://github.com/Schulich-Ignite/website/pull/123) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
