@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#133](https://github.com/Schulich-Ignite/website/pull/133) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ❌ Closed PR [#132](https://github.com/Schulich-Ignite/website/pull/132) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ❌ Closed PR [#131](https://github.com/Schulich-Ignite/website/pull/131) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ❌ Closed PR [#130](https://github.com/Schulich-Ignite/website/pull/130) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ❌ Closed PR [#129](https://github.com/Schulich-Ignite/website/pull/129) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. 🎉 Merged PR [#137](https://github.com/Schulich-Ignite/website/pull/137) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ❌ Closed PR [#135](https://github.com/Schulich-Ignite/website/pull/135) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ❌ Closed PR [#136](https://github.com/Schulich-Ignite/website/pull/136) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#134](https://github.com/Schulich-Ignite/website/pull/134) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ❌ Closed PR [#133](https://github.com/Schulich-Ignite/website/pull/133) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
