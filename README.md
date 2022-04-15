@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/Descent098/ezprez/issues/7) in [Descent098/ezprez](https://github.com/Descent098/ezprez)
-2. 🎉 Merged PR [#137](https://github.com/Schulich-Ignite/website/pull/137) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ❌ Closed PR [#135](https://github.com/Schulich-Ignite/website/pull/135) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ❌ Closed PR [#136](https://github.com/Schulich-Ignite/website/pull/136) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ❌ Closed PR [#134](https://github.com/Schulich-Ignite/website/pull/134) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ❗️ Opened issue [#32](https://github.com/Descent098/ezcv/issues/32) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+2. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
+3. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
+4. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
+5. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
