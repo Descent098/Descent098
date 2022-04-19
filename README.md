@@ -28,10 +28,10 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/Descent098/ezcv/issues/32) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-2. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
-3. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
-4. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
+1. 🗣 Commented on [#32](https://github.com/Descent098/ezcv/issues/32) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+2. 🗣 Commented on [#20](https://github.com/Descent098/ezcv/issues/20) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+3. ❗️ Closed issue [#20](https://github.com/Descent098/ezcv/issues/20) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+4. ❗️ Opened issue [#32](https://github.com/Descent098/ezcv/issues/32) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
 5. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
 <!--END_SECTION:activity-->
 
