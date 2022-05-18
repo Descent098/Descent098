@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/Descent098/ezcv/issues/40) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-2. 🎉 Merged PR [#39](https://github.com/Descent098/ezcv/pull/39) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-3. 💪 Opened PR [#39](https://github.com/Descent098/ezcv/pull/39) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-4. 🎉 Merged PR [#38](https://github.com/Descent098/ezcv/pull/38) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-5. 💪 Opened PR [#38](https://github.com/Descent098/ezcv/pull/38) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+1. 🗣 Commented on [#6](https://github.com/couldbejake/spotify2mp3/issues/6) in [couldbejake/spotify2mp3](https://github.com/couldbejake/spotify2mp3)
+2. 💪 Opened PR [#7](https://github.com/couldbejake/spotify2mp3/pull/7) in [couldbejake/spotify2mp3](https://github.com/couldbejake/spotify2mp3)
+3. 🎉 Merged PR [#1](https://github.com/Descent098/spotify2mp3/pull/1) in [Descent098/spotify2mp3](https://github.com/Descent098/spotify2mp3)
+4. 💪 Opened PR [#1](https://github.com/Descent098/spotify2mp3/pull/1) in [Descent098/spotify2mp3](https://github.com/Descent098/spotify2mp3)
+5. ❌ Closed PR [#5](https://github.com/couldbejake/spotify2mp3/pull/5) in [couldbejake/spotify2mp3](https://github.com/couldbejake/spotify2mp3)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
