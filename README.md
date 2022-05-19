@@ -94,6 +94,9 @@
  <a href="https://github.com/descent098/otp_emoji">
    <img alt-"otp_emoji" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=otp_emoji">
  </a>
+ <a href="https://github.com/couldbejake/spotify2mp3">
+   <img alt-"sws" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spotify2mp3">
+ </a>
   <a href="https://github.com/descent098/installation-script">
    <img alt-"installation-script" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=installation-script">
  </a>
