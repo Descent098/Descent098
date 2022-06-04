@@ -29,10 +29,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
-2. 🎉 Merged PR [#7](https://github.com/QU-UP/ezcv-themes/pull/7) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
-3. 💪 Opened PR [#7](https://github.com/QU-UP/ezcv-themes/pull/7) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
-4. 🎉 Merged PR [#45](https://github.com/Descent098/ezcv/pull/45) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
-5. 💪 Opened PR [#45](https://github.com/Descent098/ezcv/pull/45) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+2. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
+3. 🎉 Merged PR [#7](https://github.com/QU-UP/ezcv-themes/pull/7) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
+4. 💪 Opened PR [#7](https://github.com/QU-UP/ezcv-themes/pull/7) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
+5. 🎉 Merged PR [#45](https://github.com/Descent098/ezcv/pull/45) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
