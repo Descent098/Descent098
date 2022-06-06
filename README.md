@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
-2. 🗣 Commented on [#48](https://github.com/gen1us2k/python-whois/issues/48) in [gen1us2k/python-whois](https://github.com/gen1us2k/python-whois)
-3. 🎉 Merged PR [#7](https://github.com/QU-UP/ezcv-themes/pull/7) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
-4. 💪 Opened PR [#7](https://github.com/QU-UP/ezcv-themes/pull/7) in [QU-UP/ezcv-themes](https://github.com/QU-UP/ezcv-themes)
-5. 🎉 Merged PR [#45](https://github.com/Descent098/ezcv/pull/45) in [Descent098/ezcv](https://github.com/Descent098/ezcv)
+1. 🎉 Merged PR [#26](https://github.com/Descent098/ahd/pull/26) in [Descent098/ahd](https://github.com/Descent098/ahd)
+2. 💪 Opened PR [#26](https://github.com/Descent098/ahd/pull/26) in [Descent098/ahd](https://github.com/Descent098/ahd)
+3. ❗️ Closed issue [#12](https://github.com/Descent098/ahd/issues/12) in [Descent098/ahd](https://github.com/Descent098/ahd)
+4. ❗️ Closed issue [#22](https://github.com/Descent098/ahd/issues/22) in [Descent098/ahd](https://github.com/Descent098/ahd)
+5. ❗️ Closed issue [#21](https://github.com/Descent098/ahd/issues/21) in [Descent098/ahd](https://github.com/Descent098/ahd)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
