@@ -28,11 +28,11 @@
 ## Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/Descent098/sws/issues/11) in [Descent098/sws](https://github.com/Descent098/sws)
-2. ❗️ Opened issue [#9](https://github.com/Descent098/ezspreadsheet/issues/9) in [Descent098/ezspreadsheet](https://github.com/Descent098/ezspreadsheet)
-3. 🎉 Merged PR [#26](https://github.com/Descent098/ahd/pull/26) in [Descent098/ahd](https://github.com/Descent098/ahd)
-4. 💪 Opened PR [#26](https://github.com/Descent098/ahd/pull/26) in [Descent098/ahd](https://github.com/Descent098/ahd)
-5. ❗️ Closed issue [#12](https://github.com/Descent098/ahd/issues/12) in [Descent098/ahd](https://github.com/Descent098/ahd)
+1. ❗️ Opened issue [#2](https://github.com/Descent098/ezcv-frontend/issues/2) in [Descent098/ezcv-frontend](https://github.com/Descent098/ezcv-frontend)
+2. ❗️ Opened issue [#9](https://github.com/Descent098/sdu/issues/9) in [Descent098/sdu](https://github.com/Descent098/sdu)
+3. ❗️ Closed issue [#11](https://github.com/Descent098/sws/issues/11) in [Descent098/sws](https://github.com/Descent098/sws)
+4. ❗️ Opened issue [#9](https://github.com/Descent098/ezspreadsheet/issues/9) in [Descent098/ezspreadsheet](https://github.com/Descent098/ezspreadsheet)
+5. 🎉 Merged PR [#26](https://github.com/Descent098/ahd/pull/26) in [Descent098/ahd](https://github.com/Descent098/ahd)
 <!--END_SECTION:activity-->
 
 <!-- TODO: Add contact section here -->
