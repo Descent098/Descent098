@@ -50,6 +50,9 @@
   <a href="https://kieranwood.ca/ezprez-example">
    <img alt-"ezprez-example" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez-example">
  </a>
+   <a href="https://kieranwood.ca/static-site-generators">
+   <img alt-"static-site-generators" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=static-site-generators">
+ </a>
 </details>
 
 <details>
@@ -127,7 +130,10 @@
    <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez">
  </a>
   <a href="https://kieranwood.ca/ezcv">
-   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
+   <img alt-"ezcv" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
+ </a>
+  <a href="https://github.com/Descent098/ezcv-frontend">
+   <img alt-"ezcv-frontend" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-frontend">
  </a>
 </details>
 
@@ -154,6 +160,10 @@
  </a>
   <a href="https://github.com/Descent098/spark">
    <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spark">
+ </a>
+ 
+<a href="https://github.com/Descent098/web-comissioner-training">
+   <img alt-"web-comissioner-training" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=web-comissioner-training">
  </a>
 </details>
 
