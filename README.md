@@ -148,6 +148,10 @@
   <a href="https://github.com/Descent098/ezcv-frontend">
    <img alt-"ezcv-frontend" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-frontend">
  </a>
+ 
+ <a href="https://github.com/QU-UP/ezcv-themes">
+   <img alt-"ezcv-themes" src="https://github-readme-stats.vercel.app/api/pin/?username=QU-UP&repo=ezcv-themes">
+ </a>
 </details>
 
 <details>
