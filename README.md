@@ -41,18 +41,31 @@
 
 <details>
  <summary>:speaker: Presentations</summary>
- <a href="https://kieranwood.ca/static-site-hosting">
-   <img alt-"static-site-hosting" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=static-site-hosting">
- </a>
+ 
  <a href="https://kieranwood.ca/basic-web-technologies">
    <img alt-"basic-web-technologies" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=basic-web-technologies">
  </a>
+ 
+  <a href="https://kieranwood.ca/terminal-basics">
+   <img alt-"terminal Basics" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=terminal-basics">
+ </a>
+ 
+  <a href="https://kieranwood.ca/static-site-generators">
+   <img alt-"static-site-generators" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=static-site-generators">
+ </a>
+ 
+  <a href="https://kieranwood.ca/ci-cd-basics">
+   <img alt-"static-site-generators" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ci-cd-basics">
+ </a>
+ 
+ <a href="https://kieranwood.ca/static-site-hosting">
+   <img alt-"static-site-hosting" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=static-site-hosting">
+ </a>
+
   <a href="https://kieranwood.ca/ezprez-example">
    <img alt-"ezprez-example" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez-example">
  </a>
-   <a href="https://kieranwood.ca/static-site-generators">
-   <img alt-"static-site-generators" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=static-site-generators">
- </a>
+
 </details>
 
 <details>
