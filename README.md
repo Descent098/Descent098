@@ -186,6 +186,10 @@
 <a href="https://github.com/Descent098/web-comissioner-training">
    <img alt-"web-comissioner-training" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=web-comissioner-training">
  </a>
+ 
+ <a href="https://github.com/Descent098/ezcv-http">
+   <img alt-"ezcv-http" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-http">
+ </a>
 </details>
 
 
