@@ -188,6 +188,20 @@
  </a>
 </details>
 
+
+<details>
+ <summary>:book: Gists </summary>
+ 
+ <a href="https://gist.github.com/Descent098/dae85d0235acce5322bf1277d1372a7e"> Word Similarity in python </a>
+ 
+
+ <a href="https://gist.github.com/Descent098/783f68e1e3943e8796a3aaf8a14f8013">Sockets </a>
+ 
+ 
+ <a href="https://gist.github.com/Descent098/526a4e65ed580b75e2867eee95797479"> Native windows shortcuts </a> 
+ 
+</details>
+
 ## Contact
 
 For obvious reasons much of my work is not public, so the information included on this profile is all just my public work. You can contact me [here](https://kieranwood.ca#contact) if you have any questions about other work that I have done, or have a project you want me to join.
