@@ -46,6 +46,10 @@
    <img alt-"basic-web-technologies" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=basic-web-technologies">
  </a>
  
+  <a href="https://kieranwood.ca/basic-networking-infastructure">
+   <img alt-"basic-networking-infastructure" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=basic-networking-infastructure">
+ </a>
+ 
   <a href="https://kieranwood.ca/terminal-basics">
    <img alt-"terminal Basics" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=terminal-basics">
  </a>
