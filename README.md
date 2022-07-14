@@ -204,6 +204,8 @@
  
  <a href="https://gist.github.com/Descent098/526a4e65ed580b75e2867eee95797479"> Native windows shortcuts </a> 
  
+ <a href="https://gist.github.com/Descent098/ab3bc88425c71e36f3583d916b9ee2b9#firmwarebios"> Operating system basics </a>
+ 
 </details>
 
 ## Contact
