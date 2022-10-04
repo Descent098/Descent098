@@ -2,7 +2,7 @@ name: Update README Activity
 
 on:
   schedule:
-    - cron: '*/60 10 * * *'
+    - cron: '*/60 23 * * 1'
   workflow_dispatch:
 
 jobs:
