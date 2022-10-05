@@ -156,6 +156,23 @@
  <a href="https://github.com/QU-UP/ezcv-themes">
    <img alt-"ezcv-themes" src="https://github-readme-stats.vercel.app/api/pin/?username=QU-UP&repo=ezcv-themes">
  </a>
+ 
+ <a href="https://github.com/Descent098/bored">
+   <img alt-"bored" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=bored">
+ </a>
+ 
+ <a href="https://github.com/Descent098/Coder">
+   <img alt-"Coder!" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Coder">
+ </a>
+ 
+  <a href="https://github.com/Descent098/serket">
+   <img alt-"serket" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=serket">
+ </a>
+ 
+ <a href="https://github.com/Descent098/glass-portfolio">
+   <img alt-"glass-portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=glass-portfolio">
+ </a>
+ 
 </details>
 
 <details>
