@@ -27,13 +27,9 @@
 
 ## Recent activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/dongli0x00/python-preview/issues/28) in [dongli0x00/python-preview](https://github.com/dongli0x00/python-preview)
-2. 🎉 Merged PR [#2](https://github.com/Descent098/basic-web-technologies/pull/2) in [Descent098/basic-web-technologies](https://github.com/Descent098/basic-web-technologies)
-3. 💪 Opened PR [#2](https://github.com/Descent098/basic-web-technologies/pull/2) in [Descent098/basic-web-technologies](https://github.com/Descent098/basic-web-technologies)
-4. ❗️ Opened issue [#9](https://github.com/Descent098/sdu/issues/9) in [Descent098/sdu](https://github.com/Descent098/sdu)
-5. ❗️ Closed issue [#11](https://github.com/Descent098/sws/issues/11) in [Descent098/sws](https://github.com/Descent098/sws)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <!-- TODO: Add contact section here -->
 
