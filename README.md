@@ -165,15 +165,15 @@ Last Updated: Thursday, October 6th, 2022, 4:03:34 AM
    <img alt-"bored" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=bored">
  </a>
  
- <a href="https://github.com/Descent098/Coder">
+ <a href="https://kieranwood.ca/Coder">
    <img alt-"Coder!" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Coder">
  </a>
  
-  <a href="https://github.com/Descent098/serket">
+  <a href="https://kieranwood.ca/serket">
    <img alt-"serket" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=serket">
  </a>
  
- <a href="https://github.com/Descent098/glass-portfolio">
+ <a href="https://kieranwood.ca/glass-portfolio">
    <img alt-"glass-portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=glass-portfolio">
  </a>
  
