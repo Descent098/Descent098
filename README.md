@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ⭐ Starred [pawamoy/markdown-exec](https://github.com/pawamoy/markdown-exec)
-3. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
-4. ⬆️ Pushed 1 commit(s) to [Descent098/Descent098](https://github.com/Descent098/Descent098)
-5. ⬆️ Pushed 1 commit(s) to [Descent098/serket](https://github.com/Descent098/serket)
+1. ⭐ Starred [vitessio/vitess](https://github.com/vitessio/vitess)
+2. ⭐ Starred [harshkhandeparkar/rainbow-board](https://github.com/harshkhandeparkar/rainbow-board)
+3. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ⬆️ Pushed 1 commit(s) to [Descent098/serket](https://github.com/Descent098/serket)
+5. ⬆️ Pushed 1 commit(s) to [CPSC-581-F2022-Group/beat-lock](https://github.com/CPSC-581-F2022-Group/beat-lock)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 10th, 2022, 11:33:52 PM
+Last Updated: Monday, October 17th, 2022, 11:33:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
