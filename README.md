@@ -129,18 +129,7 @@ Last Updated: Monday, October 24th, 2022, 11:34:07 PM
 <details>
  <summary>:globe_with_meridians: Web Development</summary>
 
- <a href="https://github.com/Descent098/ignite-site-2019">
-   <img alt-"Schulich Ignite" src="https://github-readme-stats.vercel.app/api/pin/?username=Descent098&repo=ignite-site-2019">
- </a>
- <a href="https://github.com/descent098/ideas-plz">
-   <img alt-"ideas-plz" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ideas-plz">
- </a>
- <a href="https://github.com/descent098/slack-connect-4-bot">
-   <img alt-"slack-connect-4-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=slack-connect-4-bot">
- </a>
- <a href="https://github.com/descent098/markdown-writer">
-   <img alt-"markdown-writer" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=markdown-writer">
- </a>
+
   <a href="https://github.com/Schulich-ignite/website">
    <img alt-"Schulich ignite site" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=website">
  </a>
@@ -153,6 +142,9 @@ Last Updated: Monday, October 24th, 2022, 11:34:07 PM
   <a href="https://kieranwood.ca/ezcv">
    <img alt-"ezcv" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
  </a>
+   <a href="https://kieranwood.ca/profilicity">
+   <img alt-"profilicity" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=profilicity">
+ </a>
   <a href="https://github.com/Descent098/ezcv-frontend">
    <img alt-"ezcv-frontend" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-frontend">
  </a>
@@ -163,6 +155,19 @@ Last Updated: Monday, October 24th, 2022, 11:34:07 PM
  
  <a href="https://github.com/Descent098/bored">
    <img alt-"bored" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=bored">
+ </a> 
+ 
+  <a href="https://github.com/Descent098/ignite-site-2019">
+   <img alt-"Schulich Ignite" src="https://github-readme-stats.vercel.app/api/pin/?username=Descent098&repo=ignite-site-2019">
+ </a>
+ <a href="https://github.com/descent098/ideas-plz">
+   <img alt-"ideas-plz" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ideas-plz">
+ </a>
+ <a href="https://github.com/descent098/slack-connect-4-bot">
+   <img alt-"slack-connect-4-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=slack-connect-4-bot">
+ </a>
+ <a href="https://github.com/descent098/markdown-writer">
+   <img alt-"markdown-writer" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=markdown-writer">
  </a>
  
  <a href="https://kieranwood.ca/Coder">
