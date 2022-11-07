@@ -30,13 +30,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/web-course-files](https://github.com/Schulich-Ignite/web-course-files)
-3. ⬆️ Pushed 1 commit(s) to [Descent098/Descent098](https://github.com/Descent098/Descent098)
-4. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/web-course-files](https://github.com/Schulich-Ignite/web-course-files)
-5. ⬆️ Pushed 1 commit(s) to [Descent098/ezcv](https://github.com/Descent098/ezcv)
+3. 💪 Opened PR [#2](https://github.com/dylanleclair/guacamole/pull/2) in [dylanleclair/guacamole](https://github.com/dylanleclair/guacamole)
+4. ⬆️ Pushed 1 commit(s) to [Descent098/guacamole](https://github.com/Descent098/guacamole)
+5. 🔱 Forked [Descent098/guacamole](https://github.com/Descent098/guacamole) from [dylanleclair/guacamole](https://github.com/dylanleclair/guacamole)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 31st, 2022, 11:30:05 PM
+Last Updated: Monday, November 7th, 2022, 11:28:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
