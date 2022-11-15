@@ -133,9 +133,6 @@ Last Updated: Monday, November 14th, 2022, 11:23:45 PM
   <a href="https://github.com/Schulich-ignite/website">
    <img alt-"Schulich ignite site" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=website">
  </a>
-  <a href="https://github.com/canadian-coding/website">
-   <img alt-"Canadian Coding Site" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=website">
- </a>
    <a href="https://kieranwood.ca/ezprez">
    <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez">
  </a>
