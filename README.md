@@ -130,25 +130,34 @@ Last Updated: Monday, November 14th, 2022, 11:23:45 PM
  <summary>:globe_with_meridians: Web Development</summary>
 
 
-  <a href="https://github.com/Schulich-ignite/website">
-   <img alt-"Schulich ignite site" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=website">
- </a>
+
    <a href="https://kieranwood.ca/ezprez">
    <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez">
  </a>
   <a href="https://kieranwood.ca/ezcv">
    <img alt-"ezcv" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
  </a>
+   <a href="https://github.com/Schulich-ignite/website">
+   <img alt-"Schulich ignite site" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=website">
+ </a>
+  <a href="https://github.com/QU-UP/ezcv-themes">
+   <img alt-"ezcv-themes" src="https://github-readme-stats.vercel.app/api/pin/?username=QU-UP&repo=ezcv-themes">
+ </a>
    <a href="https://kieranwood.ca/profilicity">
    <img alt-"profilicity" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=profilicity">
  </a>
-  <a href="https://github.com/Descent098/ezcv-frontend">
-   <img alt-"ezcv-frontend" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-frontend">
+  <a href="https://kieranwood.ca/Coder">
+   <img alt-"Coder!" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Coder">
  </a>
  
- <a href="https://github.com/QU-UP/ezcv-themes">
-   <img alt-"ezcv-themes" src="https://github-readme-stats.vercel.app/api/pin/?username=QU-UP&repo=ezcv-themes">
+  <a href="https://kieranwood.ca/serket">
+   <img alt-"serket" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=serket">
  </a>
+ 
+ <a href="https://kieranwood.ca/glass-portfolio">
+   <img alt-"glass-portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=glass-portfolio">
+ </a>
+
  
  <a href="https://github.com/Descent098/bored">
    <img alt-"bored" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=bored">
@@ -166,18 +175,11 @@ Last Updated: Monday, November 14th, 2022, 11:23:45 PM
  <a href="https://github.com/descent098/markdown-writer">
    <img alt-"markdown-writer" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=markdown-writer">
  </a>
- 
- <a href="https://kieranwood.ca/Coder">
-   <img alt-"Coder!" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Coder">
+   <a href="https://github.com/Descent098/ezcv-frontend">
+   <img alt-"ezcv-frontend" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-frontend">
  </a>
  
-  <a href="https://kieranwood.ca/serket">
-   <img alt-"serket" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=serket">
- </a>
- 
- <a href="https://kieranwood.ca/glass-portfolio">
-   <img alt-"glass-portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=glass-portfolio">
- </a>
+
  
 </details>
 
@@ -212,6 +214,9 @@ Last Updated: Monday, November 14th, 2022, 11:23:45 PM
  
  <a href="https://github.com/Descent098/ezcv-http">
    <img alt-"ezcv-http" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-http">
+ </a>
+   <a href="https://kieranwood.ca/serket">
+   <img alt-"serket" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=serket">
  </a>
 </details>
 
