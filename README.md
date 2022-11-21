@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/web-course-files](https://github.com/Schulich-Ignite/web-course-files)
-2. ✔️ Closed issue [#117](https://github.com/zhelyabuzhsky/stockfish/issues/117) in [zhelyabuzhsky/stockfish](https://github.com/zhelyabuzhsky/stockfish)
-3. 💬 Commented on [#117](https://github.com/zhelyabuzhsky/stockfish/issues/117#issuecomment-1310601524) in [zhelyabuzhsky/stockfish](https://github.com/zhelyabuzhsky/stockfish)
-4. ⬆️ Pushed 1 commit(s) to [canadian-coding/canadian-coding.github.io](https://github.com/canadian-coding/canadian-coding.github.io)
-5. ⬆️ Pushed 1 commit(s) to [CPSC-581-F2022-Group/Sentiment](https://github.com/CPSC-581-F2022-Group/Sentiment)
+1. ⬆️ Pushed 1 commit(s) to [Descent098/session-7-demo](https://github.com/Descent098/session-7-demo)
+2. 📔 Created new repository [Descent098/session-7-demo](https://github.com/Descent098/session-7-demo)
+3. ⬆️ Pushed 1 commit(s) to [CPSC-581-F2022-Group/Sentiment](https://github.com/CPSC-581-F2022-Group/Sentiment)
+4. ⬆️ Pushed 1 commit(s) to [CPSC-581-F2022-Group/Sentiment](https://github.com/CPSC-581-F2022-Group/Sentiment)
+5. ⭐ Starred [liriliri/eruda](https://github.com/liriliri/eruda)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 14th, 2022, 11:23:45 PM
+Last Updated: Monday, November 21st, 2022, 11:25:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
