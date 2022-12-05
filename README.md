@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 9 commit(s) to [Descent098/guacamole](https://github.com/Descent098/guacamole)
-2. 💪 Opened PR [#13](https://github.com/dylanleclair/guacamole/pull/13) in [dylanleclair/guacamole](https://github.com/dylanleclair/guacamole)
-3. ⬆️ Pushed 14 commit(s) to [Descent098/guacamole](https://github.com/Descent098/guacamole)
-4. 📔 Created new repository [Descent098/refactored-giggle](https://github.com/Descent098/refactored-giggle)
-5. 📔 Created new repository [Descent098/studious-doodle](https://github.com/Descent098/studious-doodle)
+1. ⭐ Starred [m4ll0k/takeover](https://github.com/m4ll0k/takeover)
+2. ⬆️ Pushed 23 commit(s) to [Descent098/guacamole](https://github.com/Descent098/guacamole)
+3. ⭐ Starred [gbj/leptos](https://github.com/gbj/leptos)
+4. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/web-course-files](https://github.com/Schulich-Ignite/web-course-files)
+5. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/web-course-files](https://github.com/Schulich-Ignite/web-course-files)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 28th, 2022, 11:22:32 PM
+Last Updated: Monday, December 5th, 2022, 11:20:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
