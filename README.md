@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [framer/motion](https://github.com/framer/motion)
-2. ⭐ Starred [vercel/turbo](https://github.com/vercel/turbo)
-3. ⭐ Starred [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit)
-4. ⬆️ Pushed 11 commit(s) to [Descent098/caskaydia](https://github.com/Descent098/caskaydia)
-5. ⭐ Starred [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike)
+1. ⭐ Starred [TalAter/UpUp](https://github.com/TalAter/UpUp)
+2. ⭐ Starred [veiss-com/sw-tools](https://github.com/veiss-com/sw-tools)
+3. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+4. ⭐ Starred [rulex-rs/pomsky](https://github.com/rulex-rs/pomsky)
+5. ⬆️ Pushed 1 commit(s) to [CPSC-581-F2022-Group/Wakey-Wakey](https://github.com/CPSC-581-F2022-Group/Wakey-Wakey)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 19th, 2022, 11:19:23 PM
+Last Updated: Monday, December 26th, 2022, 11:18:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
