@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TalAter/UpUp](https://github.com/TalAter/UpUp)
-2. ⭐ Starred [veiss-com/sw-tools](https://github.com/veiss-com/sw-tools)
-3. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
-4. ⭐ Starred [rulex-rs/pomsky](https://github.com/rulex-rs/pomsky)
-5. ⬆️ Pushed 1 commit(s) to [CPSC-581-F2022-Group/Wakey-Wakey](https://github.com/CPSC-581-F2022-Group/Wakey-Wakey)
+1. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+2. ⭐ Starred [add2cal/add-to-calendar-button](https://github.com/add2cal/add-to-calendar-button)
+3. ⭐ Starred [TalAter/UpUp](https://github.com/TalAter/UpUp)
+4. ⭐ Starred [veiss-com/sw-tools](https://github.com/veiss-com/sw-tools)
+5. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 26th, 2022, 11:18:53 PM
+Last Updated: Monday, January 2nd, 2023, 11:18:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
