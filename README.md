@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-2. ⭐ Starred [add2cal/add-to-calendar-button](https://github.com/add2cal/add-to-calendar-button)
-3. ⭐ Starred [TalAter/UpUp](https://github.com/TalAter/UpUp)
-4. ⭐ Starred [veiss-com/sw-tools](https://github.com/veiss-com/sw-tools)
-5. ⭐ Starred [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. 💬 Commented on [#1042](https://github.com/t3-oss/create-t3-app/issues/1042#issuecomment-1369416364) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+5. ❗️ Opened issue [#1042](https://github.com/t3-oss/create-t3-app/issues/1042) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 2nd, 2023, 11:18:57 PM
+Last Updated: Monday, January 9th, 2023, 11:19:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
