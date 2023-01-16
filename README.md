@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. 💬 Commented on [#1042](https://github.com/t3-oss/create-t3-app/issues/1042#issuecomment-1369416364) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
-5. ❗️ Opened issue [#1042](https://github.com/t3-oss/create-t3-app/issues/1042) in [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app)
+1. ⭐ Starred [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal)
+2. ⭐ Starred [thomasahle/sunfish](https://github.com/thomasahle/sunfish)
+3. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ⭐ Starred [opensupports/opensupports](https://github.com/opensupports/opensupports)
+5. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 9th, 2023, 11:19:48 PM
+Last Updated: Monday, January 16th, 2023, 11:19:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
