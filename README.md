@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ntno/mkdocs-terminal](https://github.com/ntno/mkdocs-terminal)
-2. ⭐ Starred [thomasahle/sunfish](https://github.com/thomasahle/sunfish)
-3. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ⭐ Starred [opensupports/opensupports](https://github.com/opensupports/opensupports)
-5. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)
+1. ⭐ Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)
+2. ⭐ Starred [withfig/console](https://github.com/withfig/console)
+3. ⭐ Starred [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek)
+4. ⭐ Starred [one-aalam/astro-ink](https://github.com/one-aalam/astro-ink)
+5. ⭐ Starred [hata6502/editorjs-style](https://github.com/hata6502/editorjs-style)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 16th, 2023, 11:19:19 PM
+Last Updated: Monday, January 23rd, 2023, 11:19:18 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
