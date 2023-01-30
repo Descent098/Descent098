@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)
-2. ⭐ Starred [withfig/console](https://github.com/withfig/console)
-3. ⭐ Starred [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek)
-4. ⭐ Starred [one-aalam/astro-ink](https://github.com/one-aalam/astro-ink)
-5. ⭐ Starred [hata6502/editorjs-style](https://github.com/hata6502/editorjs-style)
+1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ⭐ Starred [fathyb/carbonyl](https://github.com/fathyb/carbonyl)
+3. ❌ Closed PR [#205](https://github.com/Schulich-Ignite/website/pull/205) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#203](https://github.com/Schulich-Ignite/website/pull/203) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 23rd, 2023, 11:19:18 PM
+Last Updated: Monday, January 30th, 2023, 11:20:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
