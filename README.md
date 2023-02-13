@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. 🎉 Merged PR [#220](https://github.com/Schulich-Ignite/website/pull/220) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ⭐ Starred [open-nomie/nomie6-oss](https://github.com/open-nomie/nomie6-oss)
-4. ❌ Closed PR [#219](https://github.com/Schulich-Ignite/website/pull/219) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ❌ Closed PR [#218](https://github.com/Schulich-Ignite/website/pull/218) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ⬆️ Pushed 3 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. 🎉 Merged PR [#231](https://github.com/Schulich-Ignite/website/pull/231) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. 💪 Opened PR [#231](https://github.com/Schulich-Ignite/website/pull/231) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 6th, 2023, 11:19:22 PM
+Last Updated: Monday, February 13th, 2023, 11:21:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
