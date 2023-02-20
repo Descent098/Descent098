@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ⬆️ Pushed 3 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. 🎉 Merged PR [#231](https://github.com/Schulich-Ignite/website/pull/231) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. 💪 Opened PR [#231](https://github.com/Schulich-Ignite/website/pull/231) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ❗️ Opened issue [#243](https://github.com/Schulich-Ignite/website/issues/243) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ⭐ Starred [unocss/unocss](https://github.com/unocss/unocss)
+5. ⭐ Starred [nanostores/nanostores](https://github.com/nanostores/nanostores)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 13th, 2023, 11:21:02 PM
+Last Updated: Monday, February 20th, 2023, 11:20:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
