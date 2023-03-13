@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ⭐ Starred [johnBuffer/ClothSimulation](https://github.com/johnBuffer/ClothSimulation)
-3. ⭐ Starred [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
-4. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
-5. ❌ Closed PR [#255](https://github.com/Schulich-Ignite/website/pull/255) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. 🎉 Merged PR [#262](https://github.com/Schulich-Ignite/website/pull/262) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ❌ Closed PR [#260](https://github.com/Schulich-Ignite/website/pull/260) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#259](https://github.com/Schulich-Ignite/website/pull/259) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ❌ Closed PR [#258](https://github.com/Schulich-Ignite/website/pull/258) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 6th, 2023, 11:21:06 PM
+Last Updated: Monday, March 13th, 2023, 11:20:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
