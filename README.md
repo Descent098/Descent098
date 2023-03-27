@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. 🎉 Merged PR [#263](https://github.com/Schulich-Ignite/website/pull/263) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. 💪 Opened PR [#263](https://github.com/Schulich-Ignite/website/pull/263) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ⬆️ Pushed 1 commit(s) to [Descent098/improved-octo-waddle](https://github.com/Descent098/improved-octo-waddle)
-5. 📔 Created new repository [Descent098/improved-octo-waddle](https://github.com/Descent098/improved-octo-waddle)
+1. ⬆️ Pushed 3 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. 🎉 Merged PR [#264](https://github.com/Schulich-Ignite/website/pull/264) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. 👍 Approved [#264](https://github.com/Schulich-Ignite/website/pull/264#pullrequestreview-1358170204) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. 🎉 Merged PR [#265](https://github.com/Schulich-Ignite/website/pull/265) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 20th, 2023, 11:18:08 PM
+Last Updated: Monday, March 27th, 2023, 11:20:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
