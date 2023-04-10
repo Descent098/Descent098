@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 10 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. 🎉 Merged PR [#272](https://github.com/Schulich-Ignite/website/pull/272) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. 👍 Approved [#272](https://github.com/Schulich-Ignite/website/pull/272#pullrequestreview-1369608469) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. 🎉 Merged PR [#275](https://github.com/Schulich-Ignite/website/pull/275) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ⭐ Starred [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+3. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. 🎉 Merged PR [#279](https://github.com/Schulich-Ignite/website/pull/279) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ❌ Closed PR [#278](https://github.com/Schulich-Ignite/website/pull/278) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 3rd, 2023, 11:17:21 PM
+Last Updated: Monday, April 10th, 2023, 11:17:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
