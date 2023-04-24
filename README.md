@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chroma-core/chroma](https://github.com/chroma-core/chroma)
-2. ⭐ Starred [pinecone-io/pinecone-python-client](https://github.com/pinecone-io/pinecone-python-client)
-3. ⭐ Starred [nrwl/nx](https://github.com/nrwl/nx)
-4. ⭐ Starred [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)
-5. ⭐ Starred [paralleldrive/sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support)
+1. ⬆️ Pushed 1 commit(s) to [Descent098/taxonomies](https://github.com/Descent098/taxonomies)
+2. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. 🎉 Merged PR [#290](https://github.com/Schulich-Ignite/website/pull/290) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#288](https://github.com/Schulich-Ignite/website/pull/288) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 17th, 2023, 11:17:46 PM
+Last Updated: Monday, April 24th, 2023, 11:17:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
