@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facundofarias/awesome-websockets](https://github.com/facundofarias/awesome-websockets)
+1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ⭐ Starred [soulhighwing/LocalGPT](https://github.com/soulhighwing/LocalGPT)
-4. ⭐ Starred [odin-lang/Odin](https://github.com/odin-lang/Odin)
-5. ⬆️ Pushed 1 commit(s) to [Descent098/taxonomies](https://github.com/Descent098/taxonomies)
+3. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ⭐ Starred [google/latexify_py](https://github.com/google/latexify_py)
+5. ⭐ Starred [pymedusa/Medusa](https://github.com/pymedusa/Medusa)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 1st, 2023, 11:19:33 PM
+Last Updated: Monday, May 8th, 2023, 11:18:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
