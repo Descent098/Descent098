@@ -29,14 +29,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ⭐ Starred [google/latexify_py](https://github.com/google/latexify_py)
-5. ⭐ Starred [pymedusa/Medusa](https://github.com/pymedusa/Medusa)
+2. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. 🎉 Merged PR [#296](https://github.com/Schulich-Ignite/website/pull/296) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#295](https://github.com/Schulich-Ignite/website/pull/295) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ❌ Closed PR [#294](https://github.com/Schulich-Ignite/website/pull/294) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 8th, 2023, 11:18:45 PM
+Last Updated: Monday, May 15th, 2023, 11:16:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
