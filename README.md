@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⭐ Starred [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)
+2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 3. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. 🎉 Merged PR [#299](https://github.com/Schulich-Ignite/website/pull/299) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ⬆️ Pushed 18 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. 🎉 Merged PR [#301](https://github.com/Schulich-Ignite/website/pull/301) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 29th, 2023, 11:16:56 PM
+Last Updated: Monday, June 5th, 2023, 11:17:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
