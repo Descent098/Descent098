@@ -29,14 +29,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ⬆️ Pushed 1 commit(s) to [Descent098/compression](https://github.com/Descent098/compression)
-3. 📔 Created new repository [Descent098/compression](https://github.com/Descent098/compression)
-4. ⭐ Starred [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager)
-5. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ⬆️ Pushed 5 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. 🎉 Merged PR [#304](https://github.com/Schulich-Ignite/website/pull/304) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. 💪 Opened PR [#304](https://github.com/Schulich-Ignite/website/pull/304) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 26th, 2023, 11:20:06 PM
+Last Updated: Monday, July 3rd, 2023, 11:20:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
