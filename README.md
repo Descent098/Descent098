@@ -185,15 +185,20 @@ Last Updated: Monday, July 10th, 2023, 11:19:31 PM
 
 <details>
   <summary>:mortar_board: Education resources and templates</summary>
-
+<a href="https://github.com/descent098/hashing">
+   <img alt-"Hashing" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=hashing">
+ </a>
+ <a href="https://github.com/descent098/compression">
+   <img alt-"compression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=compression">
+ </a>
+ <a href="https://github.com/descent098/taxonomies">
+   <img alt-"taxonomies" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=taxonomies">
+ </a>
  <a href="https://github.com/descent098/simple-otp">
    <img alt-"simple-otp" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=simple-otp">
  </a>
  <a href="https://github.com/descent098/Diffie-Hellman">
    <img alt-"Diffie-Hellman" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Diffie-Hellman">
- </a>
- <a href="https://github.com/descent098/Flask-Heroku">
-   <img alt-"Flask-Heroku" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Flask-Heroku">
  </a>
  <a href="https://github.com/descent098/projects-experiments">
    <img alt-"projects-experiments" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=projects-experiments">
