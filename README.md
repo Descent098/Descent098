@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wazuh/wazuh](https://github.com/wazuh/wazuh)
-2. ⭐ Starred [xz/new.css](https://github.com/xz/new.css)
-3. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. 🎉 Merged PR [#312](https://github.com/Schulich-Ignite/website/pull/312) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ⬆️ Pushed 4 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⬆️ Pushed 4 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. 🎉 Merged PR [#313](https://github.com/Schulich-Ignite/website/pull/313) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. 💪 Opened PR [#313](https://github.com/Schulich-Ignite/website/pull/313) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ⭐ Starred [google/re2](https://github.com/google/re2)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 24th, 2023, 11:17:10 PM
+Last Updated: Monday, July 31st, 2023, 11:16:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
