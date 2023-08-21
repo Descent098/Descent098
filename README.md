@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Descent098/ahd](https://github.com/Descent098/ahd)
-2. ⭐ Starred [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
-3. ⭐ Starred [nektos/act](https://github.com/nektos/act)
-4. ⭐ Starred [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy)
-5. ⬆️ Pushed 4 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⭐ Starred [focus-editor/focus](https://github.com/focus-editor/focus)
+2. ⭐ Starred [shorebirdtech/shorebird](https://github.com/shorebirdtech/shorebird)
+3. ⭐ Starred [Norbyte/lslib](https://github.com/Norbyte/lslib)
+4. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. 🎉 Merged PR [#326](https://github.com/Schulich-Ignite/website/pull/326) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 14th, 2023, 11:15:56 PM
+Last Updated: Monday, August 21st, 2023, 11:15:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
