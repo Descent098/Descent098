@@ -130,12 +130,14 @@ Last Updated: Monday, September 4th, 2023, 11:16:01 PM
  <summary>:globe_with_meridians: Web Development</summary>
 
 
-
-   <a href="https://kieranwood.ca/ezprez">
-   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez">
+<a href="https://github.com/descent098/HHTTPP">
+   <img alt-"HHTTPP" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=HHTTPP">
  </a>
   <a href="https://kieranwood.ca/ezcv">
    <img alt-"ezcv" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
+ </a>
+    <a href="https://kieranwood.ca/ezprez">
+   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez">
  </a>
    <a href="https://github.com/Schulich-ignite/website">
    <img alt-"Schulich ignite site" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=website">
@@ -185,6 +187,13 @@ Last Updated: Monday, September 4th, 2023, 11:16:01 PM
 
 <details>
   <summary>:mortar_board: Education resources and templates</summary>
+<a href="https://github.com/descent098/HHTTPP">
+   <img alt-"HHTTPP" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=HHTTPP">
+ </a>
+<a href="https://github.com/descent098/power-of-paths">
+   <img alt-"power-of-paths" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=power-of-paths">
+ </a>
+ 
 <a href="https://github.com/descent098/hashing">
    <img alt-"Hashing" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=hashing">
  </a>
