@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Descent098/HHTTPP](https://github.com/Descent098/HHTTPP)
-2. ⭐ Starred [IndiePython/nodezator](https://github.com/IndiePython/nodezator)
-3. ❌ Closed PR [#328](https://github.com/Schulich-Ignite/website/pull/328) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ❌ Closed PR [#329](https://github.com/Schulich-Ignite/website/pull/329) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ❌ Closed PR [#330](https://github.com/Schulich-Ignite/website/pull/330) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. 🎉 Merged PR [#332](https://github.com/Schulich-Ignite/website/pull/332) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. 🎉 Merged PR [#333](https://github.com/Schulich-Ignite/website/pull/333) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. 💪 Opened PR [#333](https://github.com/Schulich-Ignite/website/pull/333) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 4th, 2023, 11:16:01 PM
+Last Updated: Monday, September 11th, 2023, 11:17:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
