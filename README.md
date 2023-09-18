@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. 🎉 Merged PR [#332](https://github.com/Schulich-Ignite/website/pull/332) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. 🎉 Merged PR [#333](https://github.com/Schulich-Ignite/website/pull/333) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. 💪 Opened PR [#333](https://github.com/Schulich-Ignite/website/pull/333) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⬆️ Pushed 4 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. 🎉 Merged PR [#335](https://github.com/Schulich-Ignite/website/pull/335) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. 👍 Approved [#335](https://github.com/Schulich-Ignite/website/pull/335#pullrequestreview-1630239692) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 11th, 2023, 11:17:45 PM
+Last Updated: Monday, September 18th, 2023, 11:16:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
