@@ -4,7 +4,7 @@
 
 :office: Working as a Data Development Intern | Nova Chemicals
 
-:clock1: Developing for 4+ years, working on personal and client projects
+:clock1: Developing for 6+ years, working on personal and client projects
  
 :school: Student at the Univerity of Calgary | Bsc. Computer Science w/minor in Philosophy
 
