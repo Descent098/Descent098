@@ -2,7 +2,7 @@
  
 :globe_with_meridians: Currently located in Calgary, Canada
 
-:office: Working as a Web Services Specialist | University of Calgary
+:office: Working as a Data Development Intern | Nova Chemicals
 
 :clock1: Developing for 4+ years, working on personal and client projects
  
