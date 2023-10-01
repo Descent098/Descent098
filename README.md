@@ -102,6 +102,13 @@ Last Updated: Monday, September 25th, 2023, 11:17:14 PM
   <a href="https://kieranwood.ca/ezcv">
    <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
  </a>
+
+  <a href="https://kieranwood.ca/ez_visual_regression">
+   <img alt-"ez_visual_regression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez_visual_regression">
+ </a>
+  <a href="https://kieranwood.ca/ez-img-diff">
+   <img alt-"ez-img-diff" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez-img-diff">
+ </a>
 </details>
 
 <details>
@@ -123,6 +130,13 @@ Last Updated: Monday, September 25th, 2023, 11:17:14 PM
  </a>
   <a href="https://github.com/descent098/installation-script">
    <img alt-"installation-script" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=installation-script">
+ </a>
+
+   <a href="https://kieranwood.ca/ez_visual_regression">
+   <img alt-"ez_visual_regression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez_visual_regression">
+ </a>
+  <a href="https://kieranwood.ca/ez-img-diff">
+   <img alt-"ez-img-diff" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez-img-diff">
  </a>
 </details>
 
@@ -179,6 +193,10 @@ Last Updated: Monday, September 25th, 2023, 11:17:14 PM
  </a>
    <a href="https://github.com/Descent098/ezcv-frontend">
    <img alt-"ezcv-frontend" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-frontend">
+ </a>
+
+   <a href="https://kieranwood.ca/ez_visual_regression">
+   <img alt-"ez_visual_regression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez_visual_regression">
  </a>
  
 
