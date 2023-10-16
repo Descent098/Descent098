@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#350](https://github.com/Schulich-Ignite/website/pull/350#pullrequestreview-1663009180) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. 💬 Commented on [#350](https://github.com/Schulich-Ignite/website/pull/350#discussion_r1349473470) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ⭐ Starred [jdan/98.css](https://github.com/jdan/98.css)
-4. ⭐ Starred [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css)
-5. ⭐ Starred [markdowncss/retro](https://github.com/markdowncss/retro)
+1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ⭐ Starred [dracula/mkdocs](https://github.com/dracula/mkdocs)
+3. ⭐ Starred [gristlabs/mkdocs-windmill](https://github.com/gristlabs/mkdocs-windmill)
+4. ⭐ Starred [gruns/icecream](https://github.com/gruns/icecream)
+5. ⬆️ Pushed 3 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 9th, 2023, 11:16:47 PM
+Last Updated: Monday, October 16th, 2023, 11:16:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
