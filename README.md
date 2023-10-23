@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ⭐ Starred [dracula/mkdocs](https://github.com/dracula/mkdocs)
-3. ⭐ Starred [gristlabs/mkdocs-windmill](https://github.com/gristlabs/mkdocs-windmill)
-4. ⭐ Starred [gruns/icecream](https://github.com/gruns/icecream)
-5. ⬆️ Pushed 3 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. 🤝 Became collaborator on [Schulich-Ignite/scorch-2024](https://github.com/Schulich-Ignite/scorch-2024)
+2. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. 🎉 Merged PR [#354](https://github.com/Schulich-Ignite/website/pull/354) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#353](https://github.com/Schulich-Ignite/website/pull/353) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ⬆️ Pushed 2 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 16th, 2023, 11:16:59 PM
+Last Updated: Monday, October 23rd, 2023, 11:17:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
