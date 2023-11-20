@@ -28,15 +28,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/scorch-2024](https://github.com/Schulich-Ignite/scorch-2024)
-2. ⭐ Starred [Okabintaro/SubmersedVR](https://github.com/Okabintaro/SubmersedVR)
-3. ⭐ Starred [fastmail/Squire](https://github.com/fastmail/Squire)
-4. ⭐ Starred [Milkdown/milkdown](https://github.com/Milkdown/milkdown)
-5. ⭐ Starred [yabwe/medium-editor](https://github.com/yabwe/medium-editor)
+1. ⭐ Starred [xwiki/xwiki-platform](https://github.com/xwiki/xwiki-platform)
+2. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ⭐ Starred [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm)
+4. ⬆️ Pushed 1 commit(s) to [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ⭐ Starred [praydog/REFramework](https://github.com/praydog/REFramework)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 13th, 2023, 11:17:48 PM
+Last Updated: Monday, November 20th, 2023, 11:18:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
