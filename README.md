@@ -10,6 +10,8 @@
 
 [![Descent098's github stats](https://github-readme-stats.vercel.app/api?username=descent098&layout=compact&show_icons=true&hide=stars&count_private=true&hide_title=true)](https://github.com/descent098)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descent098&size_weight=0.25&count_weight=0.75&layout=compact&hide=markdown,html,css&langs_count=10)](https://github.com/descent098)
+
 ## Languages
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=python" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="90px" height="90px" alt="Python"></a>
