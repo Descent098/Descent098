@@ -30,15 +30,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Descent098/one-click-hugo-cms](https://github.com/Descent098/one-click-hugo-cms)
-2. ⬆️ Pushed 1 commit(s) to [Descent098/astro-redesign](https://github.com/Descent098/astro-redesign)
-3. ⭐ Starred [getsentry/spotlight](https://github.com/getsentry/spotlight)
-4. ⭐ Starred [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight)
-5. ⭐ Starred [guymorita/recommendationRaccoon](https://github.com/guymorita/recommendationRaccoon)
+1. ❌ Closed PR [#394](https://github.com/Schulich-Ignite/website/pull/394) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ❌ Closed PR [#393](https://github.com/Schulich-Ignite/website/pull/393) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. ❌ Closed PR [#392](https://github.com/Schulich-Ignite/website/pull/392) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ❌ Closed PR [#389](https://github.com/Schulich-Ignite/website/pull/389) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+5. ❌ Closed PR [#391](https://github.com/Schulich-Ignite/website/pull/391) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 25th, 2023, 11:17:44 PM
+Last Updated: Monday, January 1st, 2024, 11:18:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
