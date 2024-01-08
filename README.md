@@ -30,15 +30,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#394](https://github.com/Schulich-Ignite/website/pull/394) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ❌ Closed PR [#393](https://github.com/Schulich-Ignite/website/pull/393) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-3. ❌ Closed PR [#392](https://github.com/Schulich-Ignite/website/pull/392) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-4. ❌ Closed PR [#389](https://github.com/Schulich-Ignite/website/pull/389) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-5. ❌ Closed PR [#391](https://github.com/Schulich-Ignite/website/pull/391) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+1. ⭐ Starred [xstevenyung/astro-htmx](https://github.com/xstevenyung/astro-htmx)
+2. ⭐ Starred [j-kaltes/Juggluco](https://github.com/j-kaltes/Juggluco)
+3. ⭐ Starred [TanStack/table](https://github.com/TanStack/table)
+4. ⭐ Starred [praydog/UEVR](https://github.com/praydog/UEVR)
+5. ⭐ Starred [MarcosNicolau/obsidian-for-academia](https://github.com/MarcosNicolau/obsidian-for-academia)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 1st, 2024, 11:18:02 PM
+Last Updated: Monday, January 8th, 2024, 11:18:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
