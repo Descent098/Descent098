@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descent098&size_weight=0.25&count_weight=0.75&layout=compact&hide=markdown,html,css&langs_count=10)](https://github.com/descent098)
 
-## Languages
+## Languages & Frameworks
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=python" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="90px" height="90px" alt="Python"></a>
 
@@ -21,6 +21,8 @@
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="90px" height="90px" alt="rust"></a>
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=java" ><img align="left" src="https://its.inside.tru.ca/files/2013/02/java.png" width="90px" height="90px" alt="java"></a>
+
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=astro" ><img align="left" src="https://www.svgrepo.com/show/373446/astro.svg" width="90px" height="90px" alt="astro"></a>
 
 <br>
 </br>
