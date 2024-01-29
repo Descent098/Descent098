@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js)
-2. ⭐ Starred [zachhannum/mkdocs-autolinks-plugin](https://github.com/zachhannum/mkdocs-autolinks-plugin)
-3. ⬆️ Pushed 1 commit(s) to [Descent098/tech](https://github.com/Descent098/tech)
-4. ⬆️ Pushed 1 commit(s) to [Descent098/youth-digital-intro-to-webdev](https://github.com/Descent098/youth-digital-intro-to-webdev)
-5. 📔 Created new repository [Descent098/youth-digital-intro-to-webdev](https://github.com/Descent098/youth-digital-intro-to-webdev)
+1. ⭐ Starred [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+2. ⭐ Starred [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja)
+3. ⭐ Starred [linagora/Twake](https://github.com/linagora/Twake)
+4. ⭐ Starred [makeplane/plane](https://github.com/makeplane/plane)
+5. ⭐ Starred [webpro/knip](https://github.com/webpro/knip)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 22nd, 2024, 11:18:25 PM
+Last Updated: Monday, January 29th, 2024, 11:18:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
