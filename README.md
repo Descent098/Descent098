@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Descent098/tech](https://github.com/Descent098/tech)
-2. ⬆️ Pushed 1 commit(s) to [Descent098/philosophy](https://github.com/Descent098/philosophy)
-3. ⭐ Starred [remarkjs/remark-html](https://github.com/remarkjs/remark-html)
-4. ⭐ Starred [schlerp/pyfsig](https://github.com/schlerp/pyfsig)
-5. ⬆️ Pushed 1 commit(s) to [Descent098/philosophy](https://github.com/Descent098/philosophy)
+1. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)
+2. ⭐ Starred [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone)
+3. ⭐ Starred [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+4. ⭐ Starred [face-hh/subterfuge](https://github.com/face-hh/subterfuge)
+5. ⭐ Starred [microsoft/sudo](https://github.com/microsoft/sudo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 5th, 2024, 11:18:10 PM
+Last Updated: Monday, February 12th, 2024, 11:16:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
