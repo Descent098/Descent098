@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)
-2. ⭐ Starred [FossifyOrg/Phone](https://github.com/FossifyOrg/Phone)
-3. ⭐ Starred [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
-4. ⭐ Starred [face-hh/subterfuge](https://github.com/face-hh/subterfuge)
-5. ⭐ Starred [microsoft/sudo](https://github.com/microsoft/sudo)
+1. 👍 Approved [#402](https://github.com/Schulich-Ignite/website/pull/402#pullrequestreview-1887856495) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+2. ⭐ Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)
+3. ⭐ Starred [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui)
+4. ⭐ Starred [microsoft/mstic](https://github.com/microsoft/mstic)
+5. ⭐ Starred [MachinisteWeb/konami-code-js](https://github.com/MachinisteWeb/konami-code-js)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 12th, 2024, 11:16:32 PM
+Last Updated: Monday, February 19th, 2024, 11:16:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
