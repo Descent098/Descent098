@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#402](https://github.com/Schulich-Ignite/website/pull/402#pullrequestreview-1887856495) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
-2. ⭐ Starred [orhun/git-cliff](https://github.com/orhun/git-cliff)
-3. ⭐ Starred [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui)
-4. ⭐ Starred [microsoft/mstic](https://github.com/microsoft/mstic)
-5. ⭐ Starred [MachinisteWeb/konami-code-js](https://github.com/MachinisteWeb/konami-code-js)
+1. ⭐ Starred [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+2. 👍 Approved [#403](https://github.com/Schulich-Ignite/website/pull/403#pullrequestreview-1899778347) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+3. 💬 Commented on [#403](https://github.com/Schulich-Ignite/website/pull/403#issuecomment-1963101663) in [Schulich-Ignite/website](https://github.com/Schulich-Ignite/website)
+4. ⭐ Starred [bufferhead-code/nightowl](https://github.com/bufferhead-code/nightowl)
+5. ⭐ Starred [NVIDIA/trt-llm-rag-windows](https://github.com/NVIDIA/trt-llm-rag-windows)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 19th, 2024, 11:16:31 PM
+Last Updated: Monday, February 26th, 2024, 11:17:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
