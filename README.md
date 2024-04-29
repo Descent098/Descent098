@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joschan21/profanity.dev](https://github.com/joschan21/profanity.dev)
-2. ⭐ Starred [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)
-3. ⭐ Starred [jmeubank/tdm-distrib](https://github.com/jmeubank/tdm-distrib)
-4. ⭐ Starred [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk)
-5. ⭐ Starred [taniarascia/takenote](https://github.com/taniarascia/takenote)
+1. ⭐ Starred [squeak-smalltalk/squeak.org](https://github.com/squeak-smalltalk/squeak.org)
+2. ⭐ Starred [apache/tika](https://github.com/apache/tika)
+3. ⭐ Starred [node-red/node-red](https://github.com/node-red/node-red)
+4. ⭐ Starred [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks)
+5. ⭐ Starred [lowcoder-org/lowcoder](https://github.com/lowcoder-org/lowcoder)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 22nd, 2024, 11:18:30 PM
+Last Updated: Monday, April 29th, 2024, 11:17:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
