@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [librenms/librenms](https://github.com/librenms/librenms)
-2. ⬆️ Pushed 1 commit(s) to [Descent098/philosophy](https://github.com/Descent098/philosophy)
-3. ⭐ Starred [roc-lang/roc](https://github.com/roc-lang/roc)
-4. ⭐ Starred [kolofordjango/kolo](https://github.com/kolofordjango/kolo)
-5. ⭐ Starred [noahgsolomon/brainrot.js](https://github.com/noahgsolomon/brainrot.js)
+1. ⭐ Starred [Mr-Wiseguy/N64Recomp](https://github.com/Mr-Wiseguy/N64Recomp)
+2. ⭐ Starred [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)
+3. ⭐ Starred [hugsy/gef](https://github.com/hugsy/gef)
+4. ⭐ Starred [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
+5. ⭐ Starred [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 13th, 2024, 11:18:27 PM
+Last Updated: Monday, May 20th, 2024, 11:19:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
