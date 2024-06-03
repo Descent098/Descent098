@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ineedbots/iw4_bot_warfare](https://github.com/ineedbots/iw4_bot_warfare)
-2. ⭐ Starred [iyaja/llama-fs](https://github.com/iyaja/llama-fs)
-3. ⭐ Starred [adonisjs/core](https://github.com/adonisjs/core)
-4. ⭐ Starred [joysofcode/sveltedown](https://github.com/joysofcode/sveltedown)
-5. ⭐ Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+1. ⭐ Starred [PS2ClassicsVault/Call-of-Duty-Black-Ops-3-BOiii-Client](https://github.com/PS2ClassicsVault/Call-of-Duty-Black-Ops-3-BOiii-Client)
+2. ⭐ Starred [Jbleezy/BO2-Reimagined](https://github.com/Jbleezy/BO2-Reimagined)
+3. ⭐ Starred [project-bo4/shield-development](https://github.com/project-bo4/shield-development)
+4. ⭐ Starred [wasp-lang/wasp](https://github.com/wasp-lang/wasp)
+5. ⭐ Starred [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 27th, 2024, 11:20:28 PM
+Last Updated: Monday, June 3rd, 2024, 11:19:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
