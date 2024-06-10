@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PS2ClassicsVault/Call-of-Duty-Black-Ops-3-BOiii-Client](https://github.com/PS2ClassicsVault/Call-of-Duty-Black-Ops-3-BOiii-Client)
-2. ⭐ Starred [Jbleezy/BO2-Reimagined](https://github.com/Jbleezy/BO2-Reimagined)
-3. ⭐ Starred [project-bo4/shield-development](https://github.com/project-bo4/shield-development)
-4. ⭐ Starred [wasp-lang/wasp](https://github.com/wasp-lang/wasp)
-5. ⭐ Starred [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
+1. ⭐ Starred [tursodatabase/libsql-client-py](https://github.com/tursodatabase/libsql-client-py)
+2. ⭐ Starred [tursodatabase/libsql-client-go](https://github.com/tursodatabase/libsql-client-go)
+3. ⭐ Starred [auroramod/h1-mod](https://github.com/auroramod/h1-mod)
+4. ⭐ Starred [ineedbots/iw3_bot_warfare](https://github.com/ineedbots/iw3_bot_warfare)
+5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 3rd, 2024, 11:19:58 PM
+Last Updated: Monday, June 10th, 2024, 11:19:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
