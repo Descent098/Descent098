@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tursodatabase/libsql-client-py](https://github.com/tursodatabase/libsql-client-py)
-2. ⭐ Starred [tursodatabase/libsql-client-go](https://github.com/tursodatabase/libsql-client-go)
-3. ⭐ Starred [auroramod/h1-mod](https://github.com/auroramod/h1-mod)
-4. ⭐ Starred [ineedbots/iw3_bot_warfare](https://github.com/ineedbots/iw3_bot_warfare)
-5. ⭐ Starred [upscayl/upscayl](https://github.com/upscayl/upscayl)
+1. ⭐ Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
+2. ⭐ Starred [usememos/memos](https://github.com/usememos/memos)
+3. ⭐ Starred [npmaile/blog](https://github.com/npmaile/blog)
+4. ⭐ Starred [bartekspitza/sophia](https://github.com/bartekspitza/sophia)
+5. ⭐ Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 10th, 2024, 11:19:31 PM
+Last Updated: Monday, June 17th, 2024, 11:20:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
