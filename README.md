@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
-2. ⭐ Starred [usememos/memos](https://github.com/usememos/memos)
-3. ⭐ Starred [npmaile/blog](https://github.com/npmaile/blog)
-4. ⭐ Starred [bartekspitza/sophia](https://github.com/bartekspitza/sophia)
-5. ⭐ Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+1. ⭐ Starred [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+2. ⭐ Starred [RPTools/maptool](https://github.com/RPTools/maptool)
+3. ⭐ Starred [felddy/foundryvtt-docker](https://github.com/felddy/foundryvtt-docker)
+4. ⭐ Starred [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+5. ⭐ Starred [TodePond/Arroost](https://github.com/TodePond/Arroost)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 17th, 2024, 11:20:06 PM
+Last Updated: Monday, June 24th, 2024, 11:21:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
