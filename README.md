@@ -32,15 +32,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CybrZone/phishkiller](https://github.com/CybrZone/phishkiller)
-2. ⭐ Starred [air-verse/air](https://github.com/air-verse/air)
-3. ⭐ Starred [Voxellius/Voxel](https://github.com/Voxellius/Voxel)
-4. ⭐ Starred [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
-5. ⭐ Starred [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
+1. ⭐ Starred [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue)
+2. ⭐ Starred [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
+3. ⭐ Starred [thatoddmailbox/hexos](https://github.com/thatoddmailbox/hexos)
+4. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)
+5. ⭐ Starred [CybrZone/phishkiller](https://github.com/CybrZone/phishkiller)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 1st, 2024, 11:19:14 PM
+Last Updated: Monday, July 8th, 2024, 11:18:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
