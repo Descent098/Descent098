@@ -22,6 +22,8 @@
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=java" ><img align="left" src="https://its.inside.tru.ca/files/2013/02/java.png" width="90px" height="90px" alt="java"></a>
 
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=php" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="90px" height="90px" alt="php"></a>
+
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=astro" ><img align="left" src="https://www.svgrepo.com/show/373446/astro.svg" width="90px" height="90px" alt="astro"></a>
 
 <br>
