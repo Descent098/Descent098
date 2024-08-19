@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Descent098/projects-experiments](https://github.com/Descent098/projects-experiments)
-2. ⬆️ Pushed 3 commit(s) to [Descent098/projects-experiments](https://github.com/Descent098/projects-experiments)
-3. ⭐ Starred [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
-4. ⭐ Starred [tabler/tabler](https://github.com/tabler/tabler)
-5. ⭐ Starred [yungifez/artisan-ui](https://github.com/yungifez/artisan-ui)
+1. ⬆️ Pushed 1 commit(s) to [Descent098/philosophy](https://github.com/Descent098/philosophy)
+2. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
+3. ⭐ Starred [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
+4. ⭐ Starred [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur)
+5. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 12th, 2024, 11:21:43 PM
+Last Updated: Monday, August 19th, 2024, 11:21:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
