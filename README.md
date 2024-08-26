@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Descent098/philosophy](https://github.com/Descent098/philosophy)
-2. ⭐ Starred [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
-3. ⭐ Starred [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS)
-4. ⭐ Starred [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur)
-5. ⭐ Starred [formkit/auto-animate](https://github.com/formkit/auto-animate)
+1. ⭐ Starred [emarifer/goCMS](https://github.com/emarifer/goCMS)
+2. ⭐ Starred [spurtcms/spurtcms](https://github.com/spurtcms/spurtcms)
+3. ⭐ Starred [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio)
+4. ⬆️ Pushed 1 commit(s) to [Descent098/projects-experiments](https://github.com/Descent098/projects-experiments)
+5. ⭐ Starred [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 19th, 2024, 11:21:14 PM
+Last Updated: Monday, August 26th, 2024, 11:20:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
