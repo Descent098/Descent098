@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jodigiordano/gg](https://github.com/jodigiordano/gg)
-2. ⭐ Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
-3. ⭐ Starred [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
-4. ⭐ Starred [seanap/Plex-Audiobook-Guide](https://github.com/seanap/Plex-Audiobook-Guide)
-5. ⭐ Starred [Kareadita/Kavita](https://github.com/Kareadita/Kavita)
+1. ⭐ Starred [nfoert/cardie](https://github.com/nfoert/cardie)
+2. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)
+3. ⭐ Starred [riverqueue/riverui](https://github.com/riverqueue/riverui)
+4. ⭐ Starred [instantdb/instant](https://github.com/instantdb/instant)
+5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 2nd, 2024, 11:20:42 PM
+Last Updated: Monday, September 9th, 2024, 11:22:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
