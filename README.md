@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nfoert/cardie](https://github.com/nfoert/cardie)
-2. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)
-3. ⭐ Starred [riverqueue/riverui](https://github.com/riverqueue/riverui)
-4. ⭐ Starred [instantdb/instant](https://github.com/instantdb/instant)
+1. ⭐ Starred [wolandark/bash-dungeon](https://github.com/wolandark/bash-dungeon)
+2. ⭐ Starred [creativetimofficial/argon-design-system-react](https://github.com/creativetimofficial/argon-design-system-react)
+3. ⭐ Starred [proksh/atomize](https://github.com/proksh/atomize)
+4. ⭐ Starred [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser)
 5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 9th, 2024, 11:22:00 PM
+Last Updated: Monday, September 16th, 2024, 11:18:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
