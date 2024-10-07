@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-2. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-4. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-5. ⭐ Starred [derlin/bitdowntoc](https://github.com/derlin/bitdowntoc)
+1. ⭐ Starred [bloomberg/stricli](https://github.com/bloomberg/stricli)
+2. ⭐ Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)
+3. ⭐ Starred [pg-nano/pg-parser](https://github.com/pg-nano/pg-parser)
+4. ⭐ Starred [hcengineering/huly-selfhost](https://github.com/hcengineering/huly-selfhost)
+5. ⭐ Starred [hcengineering/platform](https://github.com/hcengineering/platform)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 30th, 2024, 11:22:40 PM
+Last Updated: Monday, October 7th, 2024, 11:21:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
