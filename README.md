@@ -36,13 +36,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 2. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ⭐ Starred [kimai/kimai](https://github.com/kimai/kimai)
-4. ⭐ Starred [mbecker20/komodo](https://github.com/mbecker20/komodo)
-5. ⭐ Starred [ajnart/subs](https://github.com/ajnart/subs)
+3. ⭐ Starred [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home)
+4. ⭐ Starred [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom)
+5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 14th, 2024, 11:20:59 PM
+Last Updated: Monday, October 21st, 2024, 11:21:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
