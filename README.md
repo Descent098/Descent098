@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-2. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ⭐ Starred [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home)
-4. ⭐ Starred [patrick-steele-idem/morphdom](https://github.com/patrick-steele-idem/morphdom)
+1. ⭐ Starred [fastrepl/canary](https://github.com/fastrepl/canary)
+2. ⭐ Starred [mtmucha/coros](https://github.com/mtmucha/coros)
+3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+4. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 21st, 2024, 11:21:43 PM
+Last Updated: Monday, October 28th, 2024, 11:21:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
