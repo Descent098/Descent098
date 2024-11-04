@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fastrepl/canary](https://github.com/fastrepl/canary)
-2. ⭐ Starred [mtmucha/coros](https://github.com/mtmucha/coros)
+1. ⭐ Starred [mookums/zzz](https://github.com/mookums/zzz)
+2. ⭐ Starred [alebeck/boring](https://github.com/alebeck/boring)
 3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 4. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+5. ⭐ Starred [Harvie/cnc-simulator](https://github.com/Harvie/cnc-simulator)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 28th, 2024, 11:21:26 PM
+Last Updated: Monday, November 4th, 2024, 11:22:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
