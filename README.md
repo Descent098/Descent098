@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [crazyscot/qcp](https://github.com/crazyscot/qcp)
-2. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-4. 📔 Created new repository [Descent098/AoC-2024](https://github.com/Descent098/AoC-2024)
-5. ⭐ Starred [mistweaverco/bananas](https://github.com/mistweaverco/bananas)
+1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+2. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+3. ⬆️ Pushed 2 commit(s) to [Descent098/AoC-2024](https://github.com/Descent098/AoC-2024)
+4. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+5. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 2nd, 2024, 11:25:03 PM
+Last Updated: Monday, December 9th, 2024, 11:23:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
