@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-2. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-4. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-5. ⭐ Starred [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel)
+1. ⬆️ Pushed 1 commit(s) to [Descent098/compsci](https://github.com/Descent098/compsci)
+2. ⬆️ Pushed 1 commit(s) to [Descent098/compsci](https://github.com/Descent098/compsci)
+3. ⭐ Starred [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
+4. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+5. ⭐ Starred [pop-os/libcosmic](https://github.com/pop-os/libcosmic)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 23rd, 2024, 11:20:26 PM
+Last Updated: Monday, December 30th, 2024, 11:20:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
