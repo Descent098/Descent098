@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [glanceapp/glance](https://github.com/glanceapp/glance)
-2. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-4. ⭐ Starred [Guseyn/EHTML](https://github.com/Guseyn/EHTML)
-5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+1. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
+2. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+3. ⬆️ Pushed 1 commit(s) to [Descent098/Semester-Template](https://github.com/Descent098/Semester-Template)
+4. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+5. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 6th, 2025, 11:21:13 PM
+Last Updated: Monday, January 13th, 2025, 11:19:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
