@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amber-lang/amber](https://github.com/amber-lang/amber)
-2. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
-3. ⬆️ Pushed 1 commit(s) to [Descent098/Semester-Template](https://github.com/Descent098/Semester-Template)
+1. ⭐ Starred [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
+2. ⭐ Starred [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+3. ⭐ Starred [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
 4. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 5. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 13th, 2025, 11:19:49 PM
+Last Updated: Monday, January 20th, 2025, 11:19:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
