@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-2. ⭐ Starred [shaarli/Shaarli](https://github.com/shaarli/Shaarli)
-3. ⭐ Starred [steel-dev/surf.new](https://github.com/steel-dev/surf.new)
-4. ⭐ Starred [monicahq/monica](https://github.com/monicahq/monica)
-5. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+1. ⭐ Starred [ps2dev/ps2dev](https://github.com/ps2dev/ps2dev)
+2. ⭐ Starred [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus)
+3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+4. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+5. ⭐ Starred [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 24th, 2025, 11:23:48 PM
+Last Updated: Monday, March 31st, 2025, 11:22:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
