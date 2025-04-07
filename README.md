@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ps2dev/ps2dev](https://github.com/ps2dev/ps2dev)
-2. ⭐ Starred [Eigenfocus/eigenfocus](https://github.com/Eigenfocus/eigenfocus)
-3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-4. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-5. ⭐ Starred [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault)
+1. ❗️ Opened issue [#13570](https://github.com/withastro/astro/issues/13570) in [withastro/astro](https://github.com/withastro/astro)
+2. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+3. ✌️ Released [Quick release](https://github.com/Descent098/sculptgl/releases/tag/0.1) in [Descent098/sculptgl](https://github.com/Descent098/sculptgl)
+4. ⬆️ Pushed 4 commit(s) to [Descent098/sculptgl](https://github.com/Descent098/sculptgl)
+5. ⬆️ Pushed 1 commit(s) to [Descent098/Coder](https://github.com/Descent098/Coder)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 31st, 2025, 11:22:15 PM
+Last Updated: Monday, April 7th, 2025, 11:22:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
