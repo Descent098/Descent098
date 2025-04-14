@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#13570](https://github.com/withastro/astro/issues/13570) in [withastro/astro](https://github.com/withastro/astro)
-2. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ✌️ Released [Quick release](https://github.com/Descent098/sculptgl/releases/tag/0.1) in [Descent098/sculptgl](https://github.com/Descent098/sculptgl)
-4. ⬆️ Pushed 4 commit(s) to [Descent098/sculptgl](https://github.com/Descent098/sculptgl)
-5. ⬆️ Pushed 1 commit(s) to [Descent098/Coder](https://github.com/Descent098/Coder)
+1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+2. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+3. ⭐ Starred [NorkzYT/Novexity](https://github.com/NorkzYT/Novexity)
+4. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+5. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 7th, 2025, 11:22:49 PM
+Last Updated: Monday, April 14th, 2025, 11:22:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
