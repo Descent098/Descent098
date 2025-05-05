@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dexter-xD/blink](https://github.com/dexter-xD/blink)
-2. ⭐ Starred [hxu296/tariff](https://github.com/hxu296/tariff)
-3. ⭐ Starred [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
-4. ⭐ Starred [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. ⭐ Starred [sera-js/sera](https://github.com/sera-js/sera)
+1. ⭐ Starred [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit)
+2. ⭐ Starred [mintlify/starter](https://github.com/mintlify/starter)
+3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+4. ⭐ Starred [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
+5. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 28th, 2025, 11:22:44 PM
+Last Updated: Monday, May 5th, 2025, 11:22:58 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
