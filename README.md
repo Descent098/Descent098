@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [brianvoe/gofakeit](https://github.com/brianvoe/gofakeit)
-2. ⭐ Starred [mintlify/starter](https://github.com/mintlify/starter)
-3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-4. ⭐ Starred [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen)
-5. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+1. ⭐ Starred [goto-eof/fromgtog](https://github.com/goto-eof/fromgtog)
+2. ⭐ Starred [galvez/plainbudget](https://github.com/galvez/plainbudget)
+3. ⭐ Starred [CLoaKY233/MIST](https://github.com/CLoaKY233/MIST)
+4. ⭐ Starred [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm)
+5. ⭐ Starred [voideditor/void](https://github.com/voideditor/void)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 5th, 2025, 11:22:58 PM
+Last Updated: Monday, May 12th, 2025, 11:23:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
