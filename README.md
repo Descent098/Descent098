@@ -34,15 +34,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [goto-eof/fromgtog](https://github.com/goto-eof/fromgtog)
-2. ⭐ Starred [galvez/plainbudget](https://github.com/galvez/plainbudget)
-3. ⭐ Starred [CLoaKY233/MIST](https://github.com/CLoaKY233/MIST)
-4. ⭐ Starred [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm)
-5. ⭐ Starred [voideditor/void](https://github.com/voideditor/void)
+1. ✌️ Released [v0.1.0](https://github.com/Descent098/cgo-python-helpers/releases/tag/v0.1.0) in [Descent098/cgo-python-helpers](https://github.com/Descent098/cgo-python-helpers)
+2. ⬆️ Pushed 1 commit(s) to [Descent098/cgo-python-helpers](https://github.com/Descent098/cgo-python-helpers)
+3. ⭐ Starred [evroon/bracket](https://github.com/evroon/bracket)
+4. ⬆️ Pushed 1 commit(s) to [Descent098/tech](https://github.com/Descent098/tech)
+5. ⭐ Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 12th, 2025, 11:23:08 PM
+Last Updated: Monday, May 19th, 2025, 11:23:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
