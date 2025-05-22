@@ -215,7 +215,9 @@ Last Updated: Monday, May 19th, 2025, 11:23:26 PM
    <img alt-"ez_visual_regression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez_visual_regression">
  </a>
  
-
+   <a href="https://github.com/Descent098/react-from-scratch">
+   <img alt-"react-from-scratch" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=react-from-scratch">
+ </a>
  
 </details>
 
@@ -263,6 +265,9 @@ Last Updated: Monday, May 19th, 2025, 11:23:26 PM
  </a>
   <a href="https://kieranwood.ca/tech/">
    <img alt-"tech" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=tech">
+ </a>
+  <a href="https://github.com/Descent098/react-from-scratch">
+   <img alt-"react-from-scratch" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=react-from-scratch">
  </a>
  <a href="https://github.com/canadian-coding/posts">
    <img alt-"posts" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=posts">
