@@ -249,7 +249,7 @@ Last Updated: Monday, May 19th, 2025, 11:23:26 PM
  <a href="https://github.com/canadian-coding/python-package-template">
    <img alt-"python-package-template" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=python-package-template">
  </a>
-<a href="https://kieranwood.ca/tech/blog/utf-8-cards">
+<a href="https://kieranwood.ca/utf-8-cards/">
    <img alt-"utf-8-cards" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=utf-8-cards">
  </a>
  <a href="https://kieranwood.ca/tech/blog/python-plus-go-intro/">
