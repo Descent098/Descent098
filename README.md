@@ -18,13 +18,17 @@
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=javascript" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="90px" height="90px" alt="javascript"></a>
 
-<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="90px" height="90px" alt="rust"></a>
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=astro" ><img align="left" src="https://www.svgrepo.com/show/373446/astro.svg" width="90px" height="90px" alt="astro"></a>
+
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=go" ><img align="left" src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" width="90px" height="90px" alt="golang"></a>
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=java" ><img align="left" src="https://its.inside.tru.ca/files/2013/02/java.png" width="90px" height="90px" alt="java"></a>
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=php" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="90px" height="90px" alt="php"></a>
 
-<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=astro" ><img align="left" src="https://www.svgrepo.com/show/373446/astro.svg" width="90px" height="90px" alt="astro"></a>
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="90px" height="90px" alt="rust"></a>
+
+
 
 <br>
 </br>
@@ -84,11 +88,8 @@ Last Updated: Monday, May 19th, 2025, 11:23:26 PM
 
 <details>
  <summary>:package: API's</summary>
- <a href="https://kieranwood.ca/sdu">
-   <img alt-"sdu" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sdu">
- </a>
- <a href="https://github.com/Descent098/spark">
-   <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spark">
+ <a href="https://kieranwood.ca/ezcv">
+   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
  </a>
  <a href="https://kieranwood.ca/ezspreadsheet">
    <img alt-"ezexcel" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezspreadsheet">
@@ -96,24 +97,33 @@ Last Updated: Monday, May 19th, 2025, 11:23:26 PM
  <a href="https://kieranwood.ca/ezprez">
    <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez">
  </a>
- <a href="https://kieranwood.ca/ezshortcut">
-   <img alt-"ezshortcut" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezshortcut">
+  <a href="https://kieranwood.ca/ez-img-diff">
+   <img alt-"ez-img-diff" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez-img-diff">
  </a>
-  <a href="https://github.com/descent098/pystall">
-   <img alt-"pystall" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=pystall">
+  <a href="https://github.com/descent098/speyl">
+   <img alt-"speyl" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=speyl">
  </a>
+
+  <a href="https://kieranwood.ca/cgo-python-helpers">
+   <img alt-"cgo-python-helpers" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=cgo-python-helpers">
+ </a>
+  
+ 
  <a href="https://github.com/descent098/sws">
    <img alt-"sws" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sws">
  </a>
-  <a href="https://kieranwood.ca/ezcv">
-   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
- </a>
-
   <a href="https://kieranwood.ca/ez_visual_regression">
    <img alt-"ez_visual_regression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez_visual_regression">
  </a>
-  <a href="https://kieranwood.ca/ez-img-diff">
-   <img alt-"ez-img-diff" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez-img-diff">
+ <a href="https://kieranwood.ca/sdu">
+   <img alt-"sdu" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sdu">
+ </a>
+
+  <a href="https://github.com/Descent098/spark">
+   <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spark">
+ </a>
+ <a href="https://kieranwood.ca/ezshortcut">
+   <img alt-"ezshortcut" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezshortcut">
  </a>
 </details>
 
@@ -239,17 +249,21 @@ Last Updated: Monday, May 19th, 2025, 11:23:26 PM
  <a href="https://github.com/canadian-coding/python-package-template">
    <img alt-"python-package-template" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=python-package-template">
  </a>
+<a href="https://kieranwood.ca/tech/blog/utf-8-cards">
+   <img alt-"utf-8-cards" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=utf-8-cards">
+ </a>
+ <a href="https://kieranwood.ca/tech/blog/python-plus-go-intro/">
+   <img alt-"Python-Go" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Python-Go">
+ </a>
  <a href="https://github.com/canadian-coding/posts">
    <img alt-"posts" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=posts">
  </a>
   <a href="https://github.com/Descent098/spark">
    <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spark">
  </a>
- 
 <a href="https://github.com/Descent098/web-comissioner-training">
    <img alt-"web-comissioner-training" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=web-comissioner-training">
  </a>
- 
  <a href="https://github.com/Descent098/ezcv-http">
    <img alt-"ezcv-http" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-http">
  </a>
