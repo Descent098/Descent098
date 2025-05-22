@@ -255,6 +255,15 @@ Last Updated: Monday, May 19th, 2025, 11:23:26 PM
  <a href="https://kieranwood.ca/tech/blog/python-plus-go-intro/">
    <img alt-"Python-Go" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Python-Go">
  </a>
+ <a href="https://kieranwood.ca/performance-tests/">
+   <img alt-"performance-tests" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=performance-tests">
+ </a>
+ <a href="https://kieranwood.ca/tech/blog/jinja-components/">
+   <img alt-"components-in-jinja" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=components-in-jinja">
+ </a>
+  <a href="https://kieranwood.ca/tech/">
+   <img alt-"tech" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=tech">
+ </a>
  <a href="https://github.com/canadian-coding/posts">
    <img alt-"posts" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=posts">
  </a>
