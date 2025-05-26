@@ -38,15 +38,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/Descent098/cgo-python-helpers/releases/tag/v0.1.0) in [Descent098/cgo-python-helpers](https://github.com/Descent098/cgo-python-helpers)
-2. ⬆️ Pushed 1 commit(s) to [Descent098/cgo-python-helpers](https://github.com/Descent098/cgo-python-helpers)
-3. ⭐ Starred [evroon/bracket](https://github.com/evroon/bracket)
-4. ⬆️ Pushed 1 commit(s) to [Descent098/tech](https://github.com/Descent098/tech)
-5. ⭐ Starred [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
+1. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+2. ⭐ Starred [ravachol/kew](https://github.com/ravachol/kew)
+3. ⭐ Starred [axzilla/templui](https://github.com/axzilla/templui)
+4. ⭐ Starred [VKneider/slice.js](https://github.com/VKneider/slice.js)
+5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 19th, 2025, 11:23:26 PM
+Last Updated: Monday, May 26th, 2025, 11:22:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
