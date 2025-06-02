@@ -38,15 +38,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-2. ⭐ Starred [ravachol/kew](https://github.com/ravachol/kew)
-3. ⭐ Starred [axzilla/templui](https://github.com/axzilla/templui)
-4. ⭐ Starred [VKneider/slice.js](https://github.com/VKneider/slice.js)
+1. ⭐ Starred [antirez/kilo](https://github.com/antirez/kilo)
+2. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+3. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+4. ⬆️ Pushed 1 commit(s) to [Descent098/tech](https://github.com/Descent098/tech)
 5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 26th, 2025, 11:22:49 PM
+Last Updated: Monday, June 2nd, 2025, 11:24:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
