@@ -41,12 +41,12 @@
 1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 2. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-4. ⭐ Starred [papra-hq/papra](https://github.com/papra-hq/papra)
-5. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+4. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 9th, 2025, 11:24:33 PM
+Last Updated: Monday, June 16th, 2025, 11:24:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
