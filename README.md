@@ -38,15 +38,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-2. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ⭐ Starred [kelindar/event](https://github.com/kelindar/event)
-4. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+1. ⭐ Starred [grasplabs/documate](https://github.com/grasplabs/documate)
+2. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+3. ⭐ Starred [jurisjs/juris](https://github.com/jurisjs/juris)
+4. ⭐ Starred [BobdaProgrammer/doWM](https://github.com/BobdaProgrammer/doWM)
 5. ⬆️ Pushed 7 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 30th, 2025, 11:24:35 PM
+Last Updated: Monday, July 7th, 2025, 11:24:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
