@@ -40,13 +40,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 2. ⬆️ Pushed 10 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ⭐ Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
-4. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-5. ⬆️ Pushed 10 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+3. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+4. ⬆️ Pushed 10 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 18th, 2025, 11:23:27 PM
+Last Updated: Monday, August 25th, 2025, 11:23:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
