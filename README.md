@@ -38,15 +38,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
+1. ⭐ Starred [Notifuse/notifuse](https://github.com/Notifuse/notifuse)
 2. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 3. ⬆️ Pushed 10 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-4. ⭐ Starred [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
-5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+4. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+5. ⭐ Starred [plutov/oq](https://github.com/plutov/oq)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 15th, 2025, 11:19:57 PM
+Last Updated: Monday, September 22nd, 2025, 11:21:09 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
