@@ -39,14 +39,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-2. ⭐ Starred [raphamorim/rio](https://github.com/raphamorim/rio)
-3. ⬆️ Pushed 1 commit(s) to [Descent098/AndroidAPS](https://github.com/Descent098/AndroidAPS)
-4. ⬆️ Pushed 10 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-5. ⭐ Starred [Cloudable-dev/netgoat](https://github.com/Cloudable-dev/netgoat)
+2. ⬆️ Pushed 10 commit(s) to [Descent098/up](https://github.com/Descent098/up)
+3. ⭐ Starred [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
+4. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+5. ⭐ Starred [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 29th, 2025, 11:21:11 PM
+Last Updated: Monday, October 6th, 2025, 11:20:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
