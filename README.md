@@ -40,13 +40,13 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 2. ⬆️ Pushed 10 commit(s) to [Descent098/up](https://github.com/Descent098/up)
-3. ⭐ Starred [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense)
-4. ⭐ Starred [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
-5. ⭐ Starred [CaviraOSS/PageLM](https://github.com/CaviraOSS/PageLM)
+3. ⭐ Starred [imputnet/helium](https://github.com/imputnet/helium)
+4. ⭐ Starred [wizenheimer/blaze](https://github.com/wizenheimer/blaze)
+5. ⬆️ Pushed 2 commit(s) to [Descent098/up](https://github.com/Descent098/up)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 6th, 2025, 11:20:57 PM
+Last Updated: Monday, October 13th, 2025, 11:20:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
