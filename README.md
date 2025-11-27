@@ -16,11 +16,13 @@
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=python" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="90px" height="90px" alt="Python"></a>
 
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=go" ><img align="left" src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" width="90px" height="90px" alt="golang"></a>
+
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=javascript" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="90px" height="90px" alt="javascript"></a>
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=astro" ><img align="left" src="https://www.svgrepo.com/show/373446/astro.svg" width="90px" height="90px" alt="astro"></a>
 
-<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=go" ><img align="left" src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" width="90px" height="90px" alt="golang"></a>
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=svelte" ><img align="left" src="https://www.svgrepo.com/show/374109/svelte.svg" width="90px" height="90px" alt="astro"></a>
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=java" ><img align="left" src="https://its.inside.tru.ca/files/2013/02/java.png" width="90px" height="90px" alt="java"></a>
 
