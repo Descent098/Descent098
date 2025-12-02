@@ -105,6 +105,9 @@ Last Updated: Monday, December 1st, 2025, 11:25:27 PM
   <a href="https://github.com/descent098/speyl">
    <img alt-"speyl" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=speyl">
  </a>
+ <a href="https://github.com/descent098/readn">
+   <img alt-"readn" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=readn">
+ </a>
 
   <a href="https://kieranwood.ca/cgo-python-helpers">
    <img alt-"cgo-python-helpers" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=cgo-python-helpers">
