@@ -41,14 +41,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Descent098/up](https://github.com/Descent098/up)
-2. ⭐ Starred [Hussseinkizz/regist](https://github.com/Hussseinkizz/regist)
-3. ⭐ Starred [Effect-TS/effect](https://github.com/Effect-TS/effect)
-4. ⬆️ Pushed undefined commit(s) to [Descent098/projects-experiments](https://github.com/Descent098/projects-experiments)
-5. ⭐ Starred [itshover/itshover](https://github.com/itshover/itshover)
+2. ⭐ Starred [percona/everest](https://github.com/percona/everest)
+3. ⭐ Starred [OlaProeis/Ferrite](https://github.com/OlaProeis/Ferrite)
+4. ⬆️ Pushed undefined commit(s) to [Descent098/compsci](https://github.com/Descent098/compsci)
+5. ⬆️ Pushed undefined commit(s) to [Descent098/compsci](https://github.com/Descent098/compsci)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 5th, 2026, 11:26:53 PM
+Last Updated: Monday, January 12th, 2026, 11:22:50 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
