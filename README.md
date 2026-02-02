@@ -41,14 +41,14 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Descent098/up](https://github.com/Descent098/up)
-2. ⭐ Starred [umputun/remark42](https://github.com/umputun/remark42)
-3. ⬆️ Pushed undefined commit(s) to [Descent098/up](https://github.com/Descent098/up)
-4. ⬆️ Pushed undefined commit(s) to [Descent098/up](https://github.com/Descent098/up)
-5. ⭐ Starred [mitjafelicijan/xdgctl](https://github.com/mitjafelicijan/xdgctl)
+2. ⭐ Starred [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr)
+3. ⭐ Starred [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr)
+4. ⭐ Starred [zeromicro/cds](https://github.com/zeromicro/cds)
+5. ⭐ Starred [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 26th, 2026, 11:29:32 PM
+Last Updated: Monday, February 2nd, 2026, 11:35:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
