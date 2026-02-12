@@ -2,15 +2,11 @@
  
 :globe_with_meridians: Currently located in Calgary, Canada
 
-:office: Working as a Data Development Intern | Nova Chemicals
+:office: Working in Web Services | University of Calgary
 
-:clock1: Developing for 6+ years, working on personal and client projects
+:clock1: Developing for 8+ years, working on personal and client projects
  
 :school: Student at the Univerity of Calgary | Bsc. Computer Science w/minor in Philosophy
-
-[![Descent098's github stats](https://github-readme-stats.vercel.app/api?username=descent098&layout=compact&show_icons=true&hide=stars&count_private=true&hide_title=true)](https://github.com/descent098)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descent098&size_weight=0.25&count_weight=0.75&layout=compact&hide=markdown,html,css&langs_count=10)](https://github.com/descent098)
 
 ## Languages & Frameworks
 
@@ -57,239 +53,106 @@ Last Updated: Monday, February 9th, 2026, 11:46:00 PM
 
 <details>
  <summary>:speaker: Presentations</summary>
- 
- <a href="https://kieranwood.ca/basic-web-technologies">
-   <img alt-"basic-web-technologies" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=basic-web-technologies">
- </a>
- 
-  <a href="https://kieranwood.ca/basic-networking-infastructure">
-   <img alt-"basic-networking-infastructure" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=basic-networking-infastructure">
- </a>
- 
-  <a href="https://kieranwood.ca/terminal-basics">
-   <img alt-"terminal Basics" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=terminal-basics">
- </a>
- 
-  <a href="https://kieranwood.ca/static-site-generators">
-   <img alt-"static-site-generators" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=static-site-generators">
- </a>
- 
-  <a href="https://kieranwood.ca/ci-cd-basics">
-   <img alt-"static-site-generators" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ci-cd-basics">
- </a>
- 
- <a href="https://kieranwood.ca/static-site-hosting">
-   <img alt-"static-site-hosting" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=static-site-hosting">
- </a>
 
-  <a href="https://kieranwood.ca/ezprez-example">
-   <img alt-"ezprez-example" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez-example">
- </a>
+| Name | Description | Link(s) | Language(s) |
+|------|-------------|---------|-------------|
+| Basic Web Technologies | An overview of the basic technologies that power webpages | [Site](https://kieranwood.ca/basic-web-technologies) \| [Source](https://github.com/descent098/basic-web-technologies) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) | 
+ | Basic Networking Infrastructure | An overview of client-server architecture, and common terminology for websites/webapps | [Site](https://kieranwood.ca/basic-networking-infastructure) \| [Source](https://github.com/descent098/basic-networking-infastructure) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python)  |
+ | Terminal Basics | Basic walkthrough of using the terminal as an introduction for aspiring developers | [Site](https://kieranwood.ca/terminal-basics) \| [Source](https://github.com/descent098/terminal-basics) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+ | Static Site Generators  | A gentle introduction to static site generators | [Site](https://kieranwood.ca/static-site-generators) \| [Source](https://github.com/Descent098/static-site-generators) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+ | CI/CD Basics  | An introduction to the basics of CI/CD | [Site](https://kieranwood.ca/ci-cd-basics) \| [Source](https://github.com/Descent098/ci-cd-basics) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+ | Static Site hosting  | A presentation on how to host static site's simply | [Site](https://kieranwood.ca/static-site-hosting) \| [Source](https://github.com/Descent098/static-site-hosting) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+ | Ezprez example  | An example repository for using my python slideshow generator library [ezprez](https://github.com/descent098/ezprez) | [Site](https://kieranwood.ca/ezprez-example) \| [Source](https://github.com/descent098/ezprez-example) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
 
 </details>
 
 <details>
  <summary>:package: API's</summary>
- <a href="https://kieranwood.ca/ezcv">
-   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
- </a>
- <a href="https://kieranwood.ca/ezspreadsheet">
-   <img alt-"ezexcel" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezspreadsheet">
- </a>
- <a href="https://kieranwood.ca/ezprez">
-   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez">
- </a>
-  <a href="https://kieranwood.ca/ez-img-diff">
-   <img alt-"ez-img-diff" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez-img-diff">
- </a>
-  <a href="https://github.com/descent098/speyl">
-   <img alt-"speyl" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=speyl">
- </a>
- <a href="https://github.com/descent098/readn">
-   <img alt-"readn" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=readn">
- </a>
 
-  <a href="https://kieranwood.ca/cgo-python-helpers">
-   <img alt-"cgo-python-helpers" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=cgo-python-helpers">
- </a>
-  
- 
- <a href="https://github.com/descent098/sws">
-   <img alt-"sws" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sws">
- </a>
-  <a href="https://kieranwood.ca/ez_visual_regression">
-   <img alt-"ez_visual_regression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez_visual_regression">
- </a>
- <a href="https://kieranwood.ca/sdu">
-   <img alt-"sdu" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sdu">
- </a>
+| Name | Description | Link(s) | Language(s) |
+|------|-------------|---------|-------------|
+| ezcv | A static site generator for setting up a CV/Resume site | [API docs](https://kieranwood.ca/ezcv) \| [User Docs](https://ezcv.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezcv) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| ezspreadsheet | A simple API to store/load python objects to/from spreadsheets | [API docs](https://kieranwood.ca/ezspreadsheet) \| [User Docs](https://ezspreadsheet.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezspreadsheet) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| ezprez | An object based api for generating web presentations/slideshows | [API docs](https://kieranwood.ca/ezprez) \| [User Docs](https://ezprez.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezprez) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Ez Img Diff | A tool for doing quick perceptual image difference analysis with SSIM | [Docs](https://kieranwood.ca/ez-img-diff) \| [Source](https://github.com/descent098/ez-img-diff) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| speyl | A simple word similarity API, handy for autocorrect/word suggestion | [Source](https://github.com/descent098/speyl) | [Go](https://github.com/Descent098?tab=repositories&q=&type=&language=go) |
+| readn | A package to do reading-difficulty analysis | [Source](https://github.com/descent098/readn) | [Go](https://github.com/Descent098?tab=repositories&q=&type=&language=go) |
+| Cgo Python Helpers | A package to help create libraries that bridge go and python | [(WIP) Site](https://kieranwood.ca/cgo-python-helpers) \| [Source](https://github.com/descent098/cgo-python-helpers) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [Go](https://github.com/Descent098?tab=repositories&q=&type=&language=go) |
+| sws | Super web scripts; A CLI and API for simplifying common web tasks | [Docs](https://sws.readthedocs.io/) \| [Source](https://github.com/descent098/sws) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Ez Visual Regression | Used to take screenshots with selenium (pages or elements) and compare to baseline | [Docs](https://kieranwood.ca/ez_visual_regression) \| [Source](https://github.com/descent098/ez_visual_regression) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| sdu | Script Development utilities | [Docs](https://kieranwood.ca/sdu) \| [Source](https://github.com/descent098/sdu) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Spark | Visualization library used for the Fall 2020 schulich ignite sessions | [Docs](https://spark.schulichignite.com/) \| [Source](https://github.com/Descent098/spark) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
 
-  <a href="https://github.com/Descent098/spark">
-   <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spark">
- </a>
- <a href="https://kieranwood.ca/ezshortcut">
-   <img alt-"ezshortcut" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezshortcut">
- </a>
 </details>
 
 <details>
  <summary>:computer: Scripts and CLI's</summary>
- <a href="https://github.com/descent098/sws">
-   <img alt-"sws" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=sws">
- </a>
- <a href="https://github.com/descent098/pystall">
-   <img alt-"pystall" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=pystall">
- </a>
- <a href="https://github.com/descent098/ahd">
-   <img alt-"ahd" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ahd">
- </a>
- <a href="https://github.com/descent098/otp_emoji">
-   <img alt-"otp_emoji" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=otp_emoji">
- </a>
- <a href="https://github.com/couldbejake/spotify2mp3">
-   <img alt-"sws" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spotify2mp3">
- </a>
-  <a href="https://github.com/descent098/installation-script">
-   <img alt-"installation-script" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=installation-script">
- </a>
 
-   <a href="https://kieranwood.ca/ez_visual_regression">
-   <img alt-"ez_visual_regression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez_visual_regression">
- </a>
-  <a href="https://kieranwood.ca/ez-img-diff">
-   <img alt-"ez-img-diff" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez-img-diff">
- </a>
+| Name | Description | Link(s) | Language(s) |
+|------|-------------|---------|-------------|
+| sws | Super web scripts; A CLI and API for simplifying common web tasks | [Docs](https://sws.readthedocs.io/) \| [Source](https://github.com/descent098/sws) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Pystall | A system to automate installation and configuration of resources | [Docs](https://pystall.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/pystall) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| ahd | Create ad-hoc macros to be dispatched within their own namespace | [API docs](https://kieranwood.ca/ahd) \| [User Docs](https://ahd.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ahd) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Otp Emoji | Used to generate 🙊 one-time pads 🤐 exclusively in emojis | [Docs](https://kieranwood.ca/otp_emoji/) \| [Source](https://github.com/descent098/otp_emoji) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Spotify2mp3 | Simple free and unlimited Spotify playlist downloads | [Source](https://github.com/couldbejake/spotify2mp3) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Ez Visual Regression | Used to take screenshots with selenium (pages or elements) and compare to baseline | [Docs](https://kieranwood.ca/ez_visual_regression) \| [Source](https://github.com/descent098/ez_visual_regression) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Ez Img Diff | A tool for doing quick perceptual image difference analysis with SSIM | [Docs](https://kieranwood.ca/ez-img-diff) \| [Source](https://github.com/descent098/ez-img-diff) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+
 </details>
 
 <details>
  <summary>:globe_with_meridians: Web Development</summary>
 
+| Name | Description | Link(s) | Language(s) |
+|------|-------------|---------|-------------|
+| HHTTPP | A simple HTTP proxy server designed for educational purposes. | [Source](https://github.com/descent098/HHTTPP) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| ezcv | A static site generator for setting up a CV/Resume site | [API docs](https://kieranwood.ca/ezcv) \| [User Docs](https://ezcv.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezcv) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| ezprez | An object based api for generating web presentations/slideshows | [API docs](https://kieranwood.ca/ezprez) \| [User Docs](https://ezprez.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezprez) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Schulich Ignite Website | The website for the schulich ignite education project from 2020-2024 | [Site](https://kieranwood.ca/ignite-site-2020-2024/) \| [Source](https://github.com/descent098/ignite-site-2020-2024) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Ezcv Themes | Theme collection for the EZCV static site generator. | [Source](https://github.com/QU-UP/ezcv-themes) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Profilicity | A simple system that allows you to build static websites straight in your browser | [Site](https://kieranwood.ca/profilicity) \| [Source](https://github.com/descent098/profilicity) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Coder | An example code blog site | [Site](https://kieranwood.ca/Coder) \| [Source](https://github.com/descent098/Coder) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Serket (WIP) | Avoid Getting Stung By Password Requirements (WIP) | [Site](https://kieranwood.ca/serket) \| [Source](https://github.com/descent098/serket) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Glass Portfolio | A portfolio theme written in glassmorphic design (WIP) | [Site](https://kieranwood.ca/glass-portfolio) \| [Source](https://github.com/descent098/glass-portfolio) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Ignite Site 2019 | The Schulich ignite 2019/2020 site | [Source](https://github.com/Descent098/ignite-site-2019) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Slack Connect 4 Bot | A bot that allows you to play Connect 4 on Slack! | [Source](https://github.com/descent098/slack-connect-4-bot) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Ezcv Frontend | A demo for creating a frontend for ezcv | [Source](https://github.com/Descent098/ezcv-frontend) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Ez Visual Regression | Takes screenshots and compares them to a baseline for visual regression testing. | [Site](https://kieranwood.ca/ez_visual_regression) \| [Source](https://github.com/descent098/ez_visual_regression) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| React From Scratch | An exploration into setting up reacts functionality manually | [Source](https://github.com/Descent098/react-from-scratch) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
 
-<a href="https://github.com/descent098/HHTTPP">
-   <img alt-"HHTTPP" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=HHTTPP">
- </a>
-  <a href="https://kieranwood.ca/ezcv">
-   <img alt-"ezcv" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv">
- </a>
-    <a href="https://kieranwood.ca/ezprez">
-   <img alt-"ezprez" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezprez">
- </a>
-   <a href="https://github.com/Schulich-ignite/website">
-   <img alt-"Schulich ignite site" src="https://github-readme-stats.vercel.app/api/pin/?username=Schulich-ignite&repo=website">
- </a>
-  <a href="https://github.com/QU-UP/ezcv-themes">
-   <img alt-"ezcv-themes" src="https://github-readme-stats.vercel.app/api/pin/?username=QU-UP&repo=ezcv-themes">
- </a>
-   <a href="https://kieranwood.ca/profilicity">
-   <img alt-"profilicity" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=profilicity">
- </a>
-  <a href="https://kieranwood.ca/Coder">
-   <img alt-"Coder!" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Coder">
- </a>
- 
-  <a href="https://kieranwood.ca/serket">
-   <img alt-"serket" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=serket">
- </a>
- 
- <a href="https://kieranwood.ca/glass-portfolio">
-   <img alt-"glass-portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=glass-portfolio">
- </a>
-
- 
- <a href="https://github.com/Descent098/bored">
-   <img alt-"bored" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=bored">
- </a> 
- 
-  <a href="https://github.com/Descent098/ignite-site-2019">
-   <img alt-"Schulich Ignite" src="https://github-readme-stats.vercel.app/api/pin/?username=Descent098&repo=ignite-site-2019">
- </a>
- <a href="https://github.com/descent098/ideas-plz">
-   <img alt-"ideas-plz" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ideas-plz">
- </a>
- <a href="https://github.com/descent098/slack-connect-4-bot">
-   <img alt-"slack-connect-4-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=slack-connect-4-bot">
- </a>
- <a href="https://github.com/descent098/markdown-writer">
-   <img alt-"markdown-writer" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=markdown-writer">
- </a>
-   <a href="https://github.com/Descent098/ezcv-frontend">
-   <img alt-"ezcv-frontend" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-frontend">
- </a>
-
-   <a href="https://kieranwood.ca/ez_visual_regression">
-   <img alt-"ez_visual_regression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ez_visual_regression">
- </a>
- 
-   <a href="https://github.com/Descent098/react-from-scratch">
-   <img alt-"react-from-scratch" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=react-from-scratch">
- </a>
- 
 </details>
+
+
 
 <details>
   <summary>:mortar_board: Education resources and templates</summary>
-<a href="https://github.com/descent098/HHTTPP">
-   <img alt-"HHTTPP" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=HHTTPP">
- </a>
-<a href="https://github.com/descent098/power-of-paths">
-   <img alt-"power-of-paths" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=power-of-paths">
- </a>
- 
-<a href="https://github.com/descent098/hashing">
-   <img alt-"Hashing" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=hashing">
- </a>
- <a href="https://github.com/descent098/compression">
-   <img alt-"compression" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=compression">
- </a>
- <a href="https://github.com/descent098/taxonomies">
-   <img alt-"taxonomies" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=taxonomies">
- </a>
- <a href="https://github.com/descent098/simple-otp">
-   <img alt-"simple-otp" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=simple-otp">
- </a>
- <a href="https://github.com/descent098/Diffie-Hellman">
-   <img alt-"Diffie-Hellman" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Diffie-Hellman">
- </a>
- <a href="https://github.com/descent098/projects-experiments">
-   <img alt-"projects-experiments" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=projects-experiments">
- </a>
- <a href="https://github.com/canadian-coding/python-package-template">
-   <img alt-"python-package-template" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=python-package-template">
- </a>
-<a href="https://kieranwood.ca/utf-8-cards/">
-   <img alt-"utf-8-cards" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=utf-8-cards">
- </a>
- <a href="https://kieranwood.ca/tech/blog/python-plus-go-intro/">
-   <img alt-"Python-Go" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=Python-Go">
- </a>
- <a href="https://kieranwood.ca/performance-tests/">
-   <img alt-"performance-tests" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=performance-tests">
- </a>
- <a href="https://kieranwood.ca/tech/blog/jinja-components/">
-   <img alt-"components-in-jinja" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=components-in-jinja">
- </a>
-  <a href="https://kieranwood.ca/tech/">
-   <img alt-"tech" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=tech">
- </a>
-  <a href="https://github.com/Descent098/react-from-scratch">
-   <img alt-"react-from-scratch" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=react-from-scratch">
- </a>
- <a href="https://github.com/canadian-coding/posts">
-   <img alt-"posts" src="https://github-readme-stats.vercel.app/api/pin/?username=canadian-coding&repo=posts">
- </a>
-  <a href="https://github.com/Descent098/spark">
-   <img alt-"spark" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=spark">
- </a>
-<a href="https://github.com/Descent098/web-comissioner-training">
-   <img alt-"web-comissioner-training" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=web-comissioner-training">
- </a>
- <a href="https://github.com/Descent098/ezcv-http">
-   <img alt-"ezcv-http" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=ezcv-http">
- </a>
-   <a href="https://kieranwood.ca/serket">
-   <img alt-"serket" src="https://github-readme-stats.vercel.app/api/pin/?username=descent098&repo=serket">
- </a>
+
+| Name | Description | Link(s) | Language(s) |
+|------|-------------|---------|-------------|
+| Tech | My tech writing blog | [Site](https://kieranwood.ca/tech/) \| [Source](https://github.com/descent098/tech) | [Astro](https://github.com/Descent098?tab=repositories&q=&type=&language=astro) |
+| Compsci KB | A knowledge base of Computer Science information | [Site](https://kieranwood.ca/compsci) \| [Source](https://github.com/descent098/compsci) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript), etc. |
+| HHTTPP | A simple HTTP proxy server designed for educational purposes. | [Source](https://github.com/descent098/HHTTPP) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Power Of Paths | A laymen's oriented exploration of encoding | [Post](https://kieranwood.ca/tech/blog/the-power-of-paths/) \| [Source](https://github.com/descent098/power-of-paths) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Hashing | A laymen's oriented exploration of Hashing | [Post](https://kieranwood.ca/tech/blog/verifying-quickly/) \| [Source](https://github.com/descent098/hashing) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Compression | A laymen's oriented exploration of compression | [Post](https://kieranwood.ca/tech/blog/making-things-small/) \| [Source](https://github.com/descent098/compression) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Taxonomies | A laymen's oriented exploration of taxonomical ordering | [Post](https://kieranwood.ca/tech/blog/taxonomical-ordering/)\| [Source](https://github.com/descent098/taxonomies) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Simple Otp | A very simple implementation & explanation of a one time pad | [Animation](https://www.youtube.com/watch?v=QVV_bUxxiZ8) \| [Source Tour](https://www.youtube.com/watch?v=50XM-h3h6Fw) \| [Source](https://github.com/descent098/simple-otp) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Diffie Hellman | A very simple implementation and explanation of the Diffe-Helmen Key Exchange | [Source](https://github.com/descent098/Diffie-Hellman) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [Rust](https://github.com/Descent098?tab=repositories&q=&type=&language=rust)  |
+| Projects Experiments | A repository for learning the ins and outs of languages, and various technologies | [Source](https://github.com/descent098/projects-experiments) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [Go](https://github.com/Descent098?tab=repositories&q=&type=&language=go) \| [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) \| [C](https://github.com/Descent098?tab=repositories&q=&type=&language=c) \| [Rust](https://github.com/Descent098?tab=repositories&q=&type=&language=rust) \| [Java](https://github.com/Descent098?tab=repositories&q=&type=&language=java), etc..|
+| Python Package Template | Easy to use template for great PyPi packages | [Source](https://github.com/canadian-coding/python-package-template) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Utf 8 Cards | A demo for an article about UTF-8 Games | [Post](https://kieranwood.ca/utf-8-cards/) \| [Source](https://github.com/descent098/utf-8-cards) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Python Go | A repository for the examples from my series about integrating python with Go | [Post](https://kieranwood.ca/tech/blog/python-plus-go-intro/) \| [Source](https://github.com/descent098/Python-Go) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [Go](https://github.com/Descent098?tab=repositories&q=&type=&language=go)  |
+| Performance Tests | A repo of random performance tests | [Site](https://kieranwood.ca/performance-tests/) \| [Source](https://github.com/descent098/performance-tests) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [Go](https://github.com/Descent098?tab=repositories&q=&type=&language=go) \| [Java](https://github.com/Descent098?tab=repositories&q=&type=&language=java)   |
+| Components In Jinja | A laymens exploration of the component model, and it's implementation in jinja | [Post](https://kieranwood.ca/tech/blog/jinja-components/) \| [Source](https://github.com/descent098/components-in-jinja) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python)  |
+| React From Scratch | An exploration into setting up reacts functionality manually | [Source](https://github.com/Descent098/react-from-scratch) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Posts | A collection of code from posts on instagram | [Source](https://github.com/canadian-coding/posts) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [Go](https://github.com/Descent098?tab=repositories&q=&type=&language=go) \| [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) \| [Java](https://github.com/Descent098?tab=repositories&q=&type=&language=java)   |
+| Spark | Visualization library used for the Fall 2020 schulich ignite sessions | [Docs](https://spark.schulichignite.com/) \| [Source](https://github.com/Descent098/spark) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Web Commissioner Training | Collection of resources for training the next schulich ignite web comissioner | [Source](https://github.com/Descent098/web-comissioner-training) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+| Ezcv Http | An exploration into the various methods to integrate an http server with live reloading into ezcv | [Source](https://github.com/Descent098/ezcv-http) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) \| [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
+<!--| Serket | ... | [Site](https://kieranwood.ca/serket) \| [Source](https://github.com/descent098/serket) | ... |-->
+
 </details>
+
 
 
 <details>
