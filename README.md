@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)
-2. ⭐ Starred [AtomsDevs/Atoms](https://github.com/AtomsDevs/Atoms)
-3. ⭐ Starred [sndrec/WebMonkeyBall](https://github.com/sndrec/WebMonkeyBall)
-4. ⭐ Starred [andes90/collabmd](https://github.com/andes90/collabmd)
-5. ⭐ Starred [SQLMesh/sqlmesh](https://github.com/SQLMesh/sqlmesh)
+1. ⭐ Starred [jigjoy-ai/spektrum-sdk](https://github.com/jigjoy-ai/spektrum-sdk)
+2. ⭐ Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
+3. ⭐ Starred [charmbracelet/log](https://github.com/charmbracelet/log)
+4. ⭐ Starred [spf13/afero](https://github.com/spf13/afero)
+5. ⭐ Starred [jackc/pglogrepl](https://github.com/jackc/pglogrepl)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 23rd, 2026, 11:39:35 PM
+Last Updated: Monday, March 30th, 2026, 11:43:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
