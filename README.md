@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jigjoy-ai/spektrum-sdk](https://github.com/jigjoy-ai/spektrum-sdk)
-2. ⭐ Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
-3. ⭐ Starred [charmbracelet/log](https://github.com/charmbracelet/log)
-4. ⭐ Starred [spf13/afero](https://github.com/spf13/afero)
-5. ⭐ Starred [jackc/pglogrepl](https://github.com/jackc/pglogrepl)
+1. ⭐ Starred [oakmound/oak](https://github.com/oakmound/oak)
+2. ⭐ Starred [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten)
+3. ⭐ Starred [gopxl/pixel](https://github.com/gopxl/pixel)
+4. ⭐ Starred [emdash-cms/emdash](https://github.com/emdash-cms/emdash)
+5. ⭐ Starred [Linkerin/starlight-to-pdf](https://github.com/Linkerin/starlight-to-pdf)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 30th, 2026, 11:43:08 PM
+Last Updated: Monday, April 6th, 2026, 11:44:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
