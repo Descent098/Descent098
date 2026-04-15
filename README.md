@@ -24,7 +24,7 @@
 
 <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=php" ><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" width="90px" height="90px" alt="php"></a>
 
-<!-- <a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="90px" height="90px" alt="rust"></a> -->
+<a href="https://github.com/Descent098?tab=repositories&q=&type=&language=rust" ><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Original_Ferris.svg" width="90px" height="90px" alt="rust"></a>
 
 
 
@@ -72,6 +72,7 @@ Last Updated: Monday, April 13th, 2026, 11:52:02 PM
 | Name | Description | Link(s) | Language(s) |
 |------|-------------|---------|-------------|
 | ezcv | A static site generator for setting up a CV/Resume site | [API docs](https://kieranwood.ca/ezcv) \| [User Docs](https://ezcv.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezcv) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Floodr | A configurable, simple rust-based HTTP load testing system | [Docs](https://kieranwood.ca/floodr) \| [Source](https://github.com/Descent098/floodr) | [Rust](https://github.com/Descent098?tab=repositories&q=&type=&language=rust) |
 | ezspreadsheet | A simple API to store/load python objects to/from spreadsheets | [API docs](https://kieranwood.ca/ezspreadsheet) \| [User Docs](https://ezspreadsheet.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezspreadsheet) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
 | ezprez | An object based api for generating web presentations/slideshows | [API docs](https://kieranwood.ca/ezprez) \| [User Docs](https://ezprez.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezprez) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
 | Ez Img Diff | A tool for doing quick perceptual image difference analysis with SSIM | [Docs](https://kieranwood.ca/ez-img-diff) \| [Source](https://github.com/descent098/ez-img-diff) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
@@ -90,6 +91,7 @@ Last Updated: Monday, April 13th, 2026, 11:52:02 PM
 
 | Name | Description | Link(s) | Language(s) |
 |------|-------------|---------|-------------|
+| Floodr | A configurable, simple rust-based HTTP load testing system | [Docs](https://kieranwood.ca/floodr) \| [Source](https://github.com/Descent098/floodr) | [Rust](https://github.com/Descent098?tab=repositories&q=&type=&language=rust) |
 | sws | Super web scripts; A CLI and API for simplifying common web tasks | [Docs](https://sws.readthedocs.io/) \| [Source](https://github.com/descent098/sws) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
 | Pystall | A system to automate installation and configuration of resources | [Docs](https://pystall.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/pystall) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
 | ahd | Create ad-hoc macros to be dispatched within their own namespace | [API docs](https://kieranwood.ca/ahd) \| [User Docs](https://ahd.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ahd) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
@@ -107,6 +109,7 @@ Last Updated: Monday, April 13th, 2026, 11:52:02 PM
 |------|-------------|---------|-------------|
 | HHTTPP | A simple HTTP proxy server designed for educational purposes. | [Source](https://github.com/descent098/HHTTPP) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
 | ezcv | A static site generator for setting up a CV/Resume site | [API docs](https://kieranwood.ca/ezcv) \| [User Docs](https://ezcv.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezcv) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
+| Floodr | A configurable, simple rust-based HTTP load testing system | [Docs](https://kieranwood.ca/floodr) \| [Source](https://github.com/Descent098/floodr) | [Rust](https://github.com/Descent098?tab=repositories&q=&type=&language=rust) |
 | ezprez | An object based api for generating web presentations/slideshows | [API docs](https://kieranwood.ca/ezprez) \| [User Docs](https://ezprez.readthedocs.io/en/latest/) \| [Source](https://github.com/descent098/ezprez) | [Python](https://github.com/Descent098?tab=repositories&q=&type=&language=python) |
 | Schulich Ignite Website | The website for the schulich ignite education project from 2020-2024 | [Site](https://kieranwood.ca/ignite-site-2020-2024/) \| [Source](https://github.com/descent098/ignite-site-2020-2024) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
 | Ezcv Themes | Theme collection for the EZCV static site generator. | [Source](https://github.com/QU-UP/ezcv-themes) | [JS](https://github.com/Descent098?tab=repositories&q=&type=&language=javascript) |
