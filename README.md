@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [imbue-ai/bouncer](https://github.com/imbue-ai/bouncer)
-2. ⭐ Starred [antfu/tsnapi](https://github.com/antfu/tsnapi)
-3. ⭐ Starred [jerryjliu/liteparse_samples](https://github.com/jerryjliu/liteparse_samples)
-4. ⭐ Starred [vyfor/rattles](https://github.com/vyfor/rattles)
-5. ⭐ Starred [moabukar/miniblue](https://github.com/moabukar/miniblue)
+1. ⭐ Starred [GoogleChromeLabs/view-transitions-toolkit](https://github.com/GoogleChromeLabs/view-transitions-toolkit)
+2. ⭐ Starred [Ademking/MD-This-Page](https://github.com/Ademking/MD-This-Page)
+3. ⭐ Starred [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
+4. ⭐ Starred [drasimwagan/mdv](https://github.com/drasimwagan/mdv)
+5. ⭐ Starred [activetheory/activeframe](https://github.com/activetheory/activeframe)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 13th, 2026, 11:52:02 PM
+Last Updated: Monday, April 20th, 2026, 11:52:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
