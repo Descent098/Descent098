@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Descent098/slim](https://github.com/Descent098/slim)
-2. ⬆️ Pushed undefined commit(s) to [Descent098/uv](https://github.com/Descent098/uv)
-3. ⬆️ Pushed undefined commit(s) to [Descent098/odyssey-theme](https://github.com/Descent098/odyssey-theme)
-4. ⭐ Starred [NorskHelsenett/copy-fail-destroyer](https://github.com/NorskHelsenett/copy-fail-destroyer)
-5. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+1. ⬆️ Pushed undefined commit(s) to [Descent098/projects-experiments](https://github.com/Descent098/projects-experiments)
+2. ⭐ Starred [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)
+3. ⭐ Starred [chakra-ui/ark](https://github.com/chakra-ui/ark)
+4. ⭐ Starred [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+5. ⭐ Starred [ahmetb/go-httpbin](https://github.com/ahmetb/go-httpbin)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 5th, 2026, 12:00:24 AM
+Last Updated: Tuesday, May 12th, 2026, 12:03:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
