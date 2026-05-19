@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Descent098/projects-experiments](https://github.com/Descent098/projects-experiments)
-2. ⭐ Starred [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)
-3. ⭐ Starred [chakra-ui/ark](https://github.com/chakra-ui/ark)
-4. ⭐ Starred [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
-5. ⭐ Starred [ahmetb/go-httpbin](https://github.com/ahmetb/go-httpbin)
+1. ⭐ Starred [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger)
+2. ⭐ Starred [lesiw/command](https://github.com/lesiw/command)
+3. ⭐ Starred [vansh-nagar/Pixel-Perfect](https://github.com/vansh-nagar/Pixel-Perfect)
+4. ⭐ Starred [motherduckdb/obsidian-duckdb-motherduck](https://github.com/motherduckdb/obsidian-duckdb-motherduck)
+5. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 12th, 2026, 12:03:40 AM
+Last Updated: Tuesday, May 19th, 2026, 12:13:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
