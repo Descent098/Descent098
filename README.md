@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [swaggo/echo-swagger](https://github.com/swaggo/echo-swagger)
-2. ⭐ Starred [lesiw/command](https://github.com/lesiw/command)
-3. ⭐ Starred [vansh-nagar/Pixel-Perfect](https://github.com/vansh-nagar/Pixel-Perfect)
-4. ⭐ Starred [motherduckdb/obsidian-duckdb-motherduck](https://github.com/motherduckdb/obsidian-duckdb-motherduck)
-5. ⭐ Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+1. ⭐ Starred [event-driven-io/emmett](https://github.com/event-driven-io/emmett)
+2. ⭐ Starred [porsager/postgres](https://github.com/porsager/postgres)
+3. ⭐ Starred [0xNikilite/oboromi](https://github.com/0xNikilite/oboromi)
+4. ⭐ Starred [Hassaku-Emulator/Hassaku-Emulator](https://github.com/Hassaku-Emulator/Hassaku-Emulator)
+5. ⭐ Starred [klauspost/compress](https://github.com/klauspost/compress)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 19th, 2026, 12:13:37 AM
+Last Updated: Tuesday, May 26th, 2026, 12:11:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
