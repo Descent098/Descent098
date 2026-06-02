@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [event-driven-io/emmett](https://github.com/event-driven-io/emmett)
-2. ⭐ Starred [porsager/postgres](https://github.com/porsager/postgres)
-3. ⭐ Starred [0xNikilite/oboromi](https://github.com/0xNikilite/oboromi)
-4. ⭐ Starred [Hassaku-Emulator/Hassaku-Emulator](https://github.com/Hassaku-Emulator/Hassaku-Emulator)
-5. ⭐ Starred [klauspost/compress](https://github.com/klauspost/compress)
+1. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+2. ⭐ Starred [bruits/satteri](https://github.com/bruits/satteri)
+3. ⭐ Starred [jetify-com/devbox](https://github.com/jetify-com/devbox)
+4. ⭐ Starred [otiai10/gosseract](https://github.com/otiai10/gosseract)
+5. ⭐ Starred [REMnux/distro](https://github.com/REMnux/distro)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 26th, 2026, 12:11:37 AM
+Last Updated: Tuesday, June 2nd, 2026, 12:19:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
