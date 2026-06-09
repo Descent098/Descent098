@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-2. ⭐ Starred [bruits/satteri](https://github.com/bruits/satteri)
-3. ⭐ Starred [jetify-com/devbox](https://github.com/jetify-com/devbox)
-4. ⭐ Starred [otiai10/gosseract](https://github.com/otiai10/gosseract)
-5. ⭐ Starred [REMnux/distro](https://github.com/REMnux/distro)
+1. ⭐ Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+2. ⭐ Starred [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)
+3. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+4. ⭐ Starred [go-shiori/shiori](https://github.com/go-shiori/shiori)
+5. ⭐ Starred [go-shiori/obelisk](https://github.com/go-shiori/obelisk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 2nd, 2026, 12:19:29 AM
+Last Updated: Tuesday, June 9th, 2026, 12:10:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
