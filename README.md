@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-2. ⭐ Starred [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)
-3. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-4. ⭐ Starred [go-shiori/shiori](https://github.com/go-shiori/shiori)
-5. ⭐ Starred [go-shiori/obelisk](https://github.com/go-shiori/obelisk)
+1. ⭐ Starred [maziggy/bambuddy](https://github.com/maziggy/bambuddy)
+2. ⭐ Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
+3. ⭐ Starred [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)
+4. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+5. ⭐ Starred [go-shiori/shiori](https://github.com/go-shiori/shiori)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 9th, 2026, 12:10:37 AM
+Last Updated: Tuesday, June 16th, 2026, 1:42:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
