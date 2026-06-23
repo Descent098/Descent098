@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [maziggy/bambuddy](https://github.com/maziggy/bambuddy)
-2. ⭐ Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
-3. ⭐ Starred [TabularisDB/tabularis](https://github.com/TabularisDB/tabularis)
-4. ⭐ Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-5. ⭐ Starred [go-shiori/shiori](https://github.com/go-shiori/shiori)
+1. ⭐ Starred [Sentdex/minion](https://github.com/Sentdex/minion)
+2. ⭐ Starred [glodb/keel-code](https://github.com/glodb/keel-code)
+3. ⭐ Starred [modem-dev/hunk](https://github.com/modem-dev/hunk)
+4. ⭐ Starred [maziggy/bambuddy](https://github.com/maziggy/bambuddy)
+5. ⭐ Starred [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 16th, 2026, 1:42:17 AM
+Last Updated: Tuesday, June 23rd, 2026, 12:14:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
