@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jshttp/cookie](https://github.com/jshttp/cookie)
-2. ⭐ Starred [gajus/zod-compiler](https://github.com/gajus/zod-compiler)
-3. ⭐ Starred [Sentdex/minion](https://github.com/Sentdex/minion)
-4. ⭐ Starred [glodb/keel-code](https://github.com/glodb/keel-code)
-5. ⭐ Starred [modem-dev/hunk](https://github.com/modem-dev/hunk)
+1. ⭐ Starred [oiweiwei/go-msrpc](https://github.com/oiweiwei/go-msrpc)
+2. ⭐ Starred [k1LoW/mo](https://github.com/k1LoW/mo)
+3. ⭐ Starred [MarvinBregiosa/astro-sparkline](https://github.com/MarvinBregiosa/astro-sparkline)
+4. ⭐ Starred [jshttp/cookie](https://github.com/jshttp/cookie)
+5. ⭐ Starred [gajus/zod-compiler](https://github.com/gajus/zod-compiler)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 30th, 2026, 12:12:31 AM
+Last Updated: Tuesday, July 7th, 2026, 12:14:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
