@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
-2. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/readerr](https://github.com/Kieran-s-Artisnal-Slop-Factory/readerr)
-3. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/workoutt](https://github.com/Kieran-s-Artisnal-Slop-Factory/workoutt)
-4. ⭐ Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
-5. ⭐ Starred [par274/sharpemu](https://github.com/par274/sharpemu)
+1. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/readerr](https://github.com/Kieran-s-Artisnal-Slop-Factory/readerr)
+2. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)
+3. ⭐ Starred [stupside/castor](https://github.com/stupside/castor)
+4. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/learn-anywhere](https://github.com/Kieran-s-Artisnal-Slop-Factory/learn-anywhere)
+5. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/workoutt](https://github.com/Kieran-s-Artisnal-Slop-Factory/workoutt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 13th, 2026, 11:57:42 PM
+Last Updated: Tuesday, July 21st, 2026, 12:02:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
