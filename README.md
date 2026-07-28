@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/readerr](https://github.com/Kieran-s-Artisnal-Slop-Factory/readerr)
-2. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)
-3. ⭐ Starred [stupside/castor](https://github.com/stupside/castor)
-4. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/learn-anywhere](https://github.com/Kieran-s-Artisnal-Slop-Factory/learn-anywhere)
-5. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/workoutt](https://github.com/Kieran-s-Artisnal-Slop-Factory/workoutt)
+1. ⭐ Starred [jdefrancesco/dskDitto](https://github.com/jdefrancesco/dskDitto)
+2. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/readerr](https://github.com/Kieran-s-Artisnal-Slop-Factory/readerr)
+3. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/workoutt](https://github.com/Kieran-s-Artisnal-Slop-Factory/workoutt)
+4. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/readerr](https://github.com/Kieran-s-Artisnal-Slop-Factory/readerr)
+5. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/muxxerr](https://github.com/Kieran-s-Artisnal-Slop-Factory/muxxerr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 21st, 2026, 12:02:35 AM
+Last Updated: Tuesday, July 28th, 2026, 12:06:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
