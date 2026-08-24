@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [JohnSundell/Publish](https://github.com/JohnSundell/Publish)
-2. ⭐ Starred [AbdullahMukadam/Transition-kit](https://github.com/AbdullahMukadam/Transition-kit)
-3. ⭐ Starred [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor)
-4. ⭐ Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
-5. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/muxxerr](https://github.com/Kieran-s-Artisnal-Slop-Factory/muxxerr)
+1. ⭐ Starred [linkcraftstudio/feedlog](https://github.com/linkcraftstudio/feedlog)
+2. ⭐ Starred [alam00000/bentopdf](https://github.com/alam00000/bentopdf)
+3. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/muxxerr](https://github.com/Kieran-s-Artisnal-Slop-Factory/muxxerr)
+4. ⭐ Starred [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code)
+5. ⭐ Starred [dannyvfilms/Floppy](https://github.com/dannyvfilms/Floppy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 17th, 2026, 11:28:26 PM
+Last Updated: Monday, August 24th, 2026, 11:27:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
