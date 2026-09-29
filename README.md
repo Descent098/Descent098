@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
-2. ⭐ Starred [vyruss/pgSafe](https://github.com/vyruss/pgSafe)
-3. ⭐ Starred [stffnb/edentext](https://github.com/stffnb/edentext)
-4. ⭐ Starred [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate)
-5. ⭐ Starred [coffeetron832/Giraffile](https://github.com/coffeetron832/Giraffile)
+1. ⭐ Starred [valen-lang/Valen](https://github.com/valen-lang/Valen)
+2. ⭐ Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+3. ⭐ Starred [tamarackdb/tamarackdb](https://github.com/tamarackdb/tamarackdb)
+4. ⭐ Starred [tarwin/tinyjsapp](https://github.com/tarwin/tinyjsapp)
+5. ⭐ Starred [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 22nd, 2026, 1:32:18 AM
+Last Updated: Tuesday, September 29th, 2026, 2:32:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
