@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/planee](https://github.com/Kieran-s-Artisnal-Slop-Factory/planee)
-2. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/planee](https://github.com/Kieran-s-Artisnal-Slop-Factory/planee)
-3. ⬆️ Pushed undefined commit(s) to [Kieran-s-Artisnal-Slop-Factory/muxxerr](https://github.com/Kieran-s-Artisnal-Slop-Factory/muxxerr)
-4. ⭐ Starred [julyx10/lap](https://github.com/julyx10/lap)
-5. ⭐ Starred [aakarim/OpenLore](https://github.com/aakarim/OpenLore)
+1. ⭐ Starred [storytold/lightcraft](https://github.com/storytold/lightcraft)
+2. ⭐ Starred [Chnapy/PKVault](https://github.com/Chnapy/PKVault)
+3. ⭐ Starred [stonith404/umpteenth](https://github.com/stonith404/umpteenth)
+4. ⭐ Starred [floriandejonckheere/rsync-ui](https://github.com/floriandejonckheere/rsync-ui)
+5. ⭐ Starred [jularboolean/legejo](https://github.com/jularboolean/legejo)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 6th, 2026, 2:50:27 AM
+Last Updated: Tuesday, October 13th, 2026, 3:27:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
