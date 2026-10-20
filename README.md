@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [storytold/lightcraft](https://github.com/storytold/lightcraft)
-2. ⭐ Starred [Chnapy/PKVault](https://github.com/Chnapy/PKVault)
-3. ⭐ Starred [stonith404/umpteenth](https://github.com/stonith404/umpteenth)
-4. ⭐ Starred [floriandejonckheere/rsync-ui](https://github.com/floriandejonckheere/rsync-ui)
-5. ⭐ Starred [jularboolean/legejo](https://github.com/jularboolean/legejo)
+1. ⭐ Starred [shaongitbd/doory](https://github.com/shaongitbd/doory)
+2. ⭐ Starred [shikki841/inaudio](https://github.com/shikki841/inaudio)
+3. ⭐ Starred [zcanann/SFA-Decomp](https://github.com/zcanann/SFA-Decomp)
+4. ⭐ Starred [JackPriceBurns/foxhollow](https://github.com/JackPriceBurns/foxhollow)
+5. ⭐ Starred [pret/pokeheartgold](https://github.com/pret/pokeheartgold)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 13th, 2026, 3:27:35 AM
+Last Updated: Tuesday, October 20th, 2026, 1:39:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
