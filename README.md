@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pacewisdomhq/TutorLoom](https://github.com/pacewisdomhq/TutorLoom)
-2. ⭐ Starred [yatzin/home-center](https://github.com/yatzin/home-center)
-3. ⭐ Starred [filippocalippo/StykAnimate-App](https://github.com/filippocalippo/StykAnimate-App)
-4. ⭐ Starred [PowderworksCode/headstart](https://github.com/PowderworksCode/headstart)
-5. ⭐ Starred [Sadsnake1/word-smith](https://github.com/Sadsnake1/word-smith)
+1. ⭐ Starred [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)
+2. ⭐ Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
+3. ⭐ Starred [Eglantine-Community/Eglantine](https://github.com/Eglantine-Community/Eglantine)
+4. ⭐ Starred [pacewisdomhq/TutorLoom](https://github.com/pacewisdomhq/TutorLoom)
+5. ⭐ Starred [yatzin/home-center](https://github.com/yatzin/home-center)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 3rd, 2026, 3:52:59 AM
+Last Updated: Tuesday, November 10th, 2026, 4:32:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
