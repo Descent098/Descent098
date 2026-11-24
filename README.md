@@ -36,15 +36,15 @@
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)
-2. ⭐ Starred [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)
-3. ⭐ Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
-4. ⭐ Starred [Eglantine-Community/Eglantine](https://github.com/Eglantine-Community/Eglantine)
-5. ⭐ Starred [pacewisdomhq/TutorLoom](https://github.com/pacewisdomhq/TutorLoom)
+1. ⭐ Starred [ericerkz/kept](https://github.com/ericerkz/kept)
+2. ⭐ Starred [DefGuard/defguard](https://github.com/DefGuard/defguard)
+3. ⭐ Starred [Frameleaf/frameleaf-app](https://github.com/Frameleaf/frameleaf-app)
+4. ⭐ Starred [bureaucatorg/bureaucat](https://github.com/bureaucatorg/bureaucat)
+5. ⬆️ Pushed undefined commit(s) to [Descent098/AndroidAPS](https://github.com/Descent098/AndroidAPS)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 17th, 2026, 5:00:09 AM
+Last Updated: Tuesday, November 24th, 2026, 6:52:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- TODO: Add contact section here -->
